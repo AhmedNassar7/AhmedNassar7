@@ -38,12 +38,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmednassar7&show_icons=true&locale=en" alt="ahmednassar7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmednassar7&" alt="ahmednassar7" /></p>
-
-<h3 align="left"> A Snake Eating My Contributions Graph:</h3>
-<p align="center">
-	<picture>
-		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedNassar7/AhmedNassar7/output/github-contribution-grid-snake-dark.svg">
-		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmedNassar7/AhmedNassar7/output/github-contribution-grid-snake.svg">
-		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AhmedNassar7/AhmedNassar7/output/github-contribution-grid-snake.svg">
-	</picture>
-</p>
