@@ -1,6 +1,8 @@
 <h1 align="center">Hello 👋, I'm Ahmed Nassar</h1>
 <h3 align="center">Software Engineer</h3>
 
+![2](https://github.com/AhmedNassar7/AhmedNassar7/assets/119369731/c6ed0a14-028e-4356-ba01-6a686a820dd0)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmednassar7&label=Profile%20views&color=0e75b6&style=flat" alt="ahmednassar7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmednassar7" alt="ahmednassar7" /></a> </p>
