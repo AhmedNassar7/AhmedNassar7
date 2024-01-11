@@ -1,11 +1,11 @@
 <h1 align="center">Hello 👋, I'm Ahmed Nassar</h1>
 <h2 align="center">Software Engineer</h2>
 
-<img align="right" alt="Coding" width="400" src="[https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1kHEgewyUp-ttr19nwwZ7nUUfCEwfYsJE3w&usqp=CAU)">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmednassar7&label=Profile%20views&color=0e75b6&style=flat" alt="ahmednassar7" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmednassar7&label=Profile%20views&color=0e75b6&style=flat" alt="ahmednassar7" /> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmednassar7" alt="ahmednassar7" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmednassar7" alt="ahmednassar7" /></a> </p>
+<img align="right" data-ils="4" jsaction="rcuQ6b:trigger.M8vzZb;" class="rg_i Q4LuWd" jsname="Q4LuWd" width="300" height="240" alt="GitHub - Anmol-Baranwal/Cool-GIFs-For-GitHub: 🤝 Awesome List of GIFs &amp;  avatars to use in GitHub." src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1kHEgewyUp-ttr19nwwZ7nUUfCEwfYsJE3w&amp;usqp=CAU">
 
 - 🔭 I’m currently working as a **Software Engineer**
 
