@@ -36,3 +36,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmednassar7&show_icons=true&locale=en" alt="ahmednassar7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmednassar7&" alt="ahmednassar7" /></p>
+
+<h3 align="left"> A Snake Eating My Contributions Graph:</h3>
+![snake gif](https://github.com/AhmedNassar7/AhmedNassar7/blob/output/github-contribution-grid-snake.gif)
