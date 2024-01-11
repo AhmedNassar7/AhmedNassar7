@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **a.moh.nassar00@gmail.com**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/4g77s9gmo6](https://flowcv.com/resume/4g77s9gmo6)
+- 📄 Know about my experiences in my [Resume](https://flowcv.com/resume/4g77s9gmo6)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
