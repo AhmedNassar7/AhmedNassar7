@@ -1,5 +1,7 @@
 <h1 align="center">Hello 👋, I'm Ahmed Nassar</h1>
-<h2 align="center">Software Engineer</h2>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Junior+Computer+Science+Student;Competitive+Programmer;ECPC+Finalist;Top+6.9%+LeetCoders;Always+learning+new+things" alt="Typing SVG" /></a>
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmednassar7&label=Profile%20views&color=0e75b6&style=flat" alt="ahmednassar7" /> </p>
 
