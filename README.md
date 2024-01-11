@@ -2,7 +2,7 @@
 <h2 align="center">Software Engineer</h2>
 
 ![2](https://github.com/AhmedNassar7/AhmedNassar7/assets/119369731/c6ed0a14-028e-4356-ba01-6a686a820dd0)
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif">
+<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmednassar7&label=Profile%20views&color=0e75b6&style=flat" alt="ahmednassar7" /> </p>
 
