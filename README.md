@@ -3,11 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmednassar7&label=Profile%20views&color=0e75b6&style=flat" alt="ahmednassar7" /> </p>
 
-- 🔭 I’m currently working on **Portfolio**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmednassar7" alt="ahmednassar7" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development and competitive Programming**
+- 🔭 I’m currently working as a **Software Engineer**
+
+- 🌱 I’m currently learning **Web Development and Competitive Programming**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
+
+- 🤝 I’m looking for **Internship or part-time job**
 
 - 📫 How to reach me **a.moh.nassar00@gmail.com**
 
