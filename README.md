@@ -11,11 +11,11 @@
 
 - 🔭 I’m currently working as a **Software Engineer**
 
-- 🌱 I’m currently learning **Web Development and Competitive Programming**
+- 🌱 I’m currently learning **Web Development**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 🤝 I’m looking for **Internship or part-time job**
+- 🤝 I’m looking for **Internship or Part-Time Job**
 
 - 📫 How to reach me **a.moh.nassar00@gmail.com**
 
