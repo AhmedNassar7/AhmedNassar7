@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working as a **Software Engineer**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Web Development and Competitive Programming**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
