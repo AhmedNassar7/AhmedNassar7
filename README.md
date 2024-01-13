@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmednassar7&label=Profile%20views&color=0e75b6&style=flat" alt="ahmednassar7" /> 
-  <img src="https://img.shields.io/github/followers/Abdelrhman-Sayed70?label=Followers&color=0e75b6&style=flat" alt="Abdelrhman-Sayed70" height="21" width="100" />
+  <img src="https://img.shields.io/github/followers/ahmednassar7?label=Followers&color=0e75b6&style=flat" alt="ahmednassar7" height="21" width="100" />
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmednassar7&theme=monokai" alt="ahmednassar7" /></a> </p>
