@@ -31,6 +31,7 @@
 <a href="https://www.hackerrank.com/a_moh_nassar00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="a_moh_nassar00" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ahmed_nassar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmed_nassar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nasssar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nasssar" height="30" width="40" /></a>
+<a href="mailto:a.moh.nassar00@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmail" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
