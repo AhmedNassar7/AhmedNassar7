@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Ahmed Nassar</h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Junior+Computer+Science+Student;Competitive+Programmer;ECPC+Finalist;Top+6.9%+LeetCoders;Always+learning+new+things" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Web+Developer;Competitive+Programmer;Junior+Computer+Science+Student;Ex-SWE+@Nokia;1x+ECPC+Finalist;Top+6.9%+LeetCoders;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
