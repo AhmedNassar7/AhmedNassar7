@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/followers/ahmednassar7?label=Followers&color=0e75b6&style=flat" alt="ahmednassar7" height="21" width="100" />
 </p>
 
-<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmednassar7&theme=darkhub&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="ahmednassar7" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmednassar7&theme=darkhub&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="ahmednassar7" /></a> </p>
 
 <img align="right" width="360" height="230" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
@@ -39,6 +39,6 @@
 
 <p><img align="left" height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmednassar7&show_icons=true&locale=en&layout=compact" alt="ahmednassar7" /></p>
 
-<p>&nbsp;<img align="right" width="400" height="180" src="https://github-readme-stats.vercel.app/api?username=ahmednassar7&show_icons=true&locale=en" alt="ahmednassar7" /></p>
+<p>&nbsp;<img align="right" width="400" height="185" src="https://github-readme-stats.vercel.app/api?username=ahmednassar7&show_icons=true&locale=en" alt="ahmednassar7" /></p>
 
-<p><img align="left" width="1000" height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmednassar7&" alt="ahmednassar7" /></p>
+<a href="https://git.io/streak-stats"><img align="center" width="1000" height="180" src="https://streak-stats.demolab.com?user=ahmednassar7&theme=highcontrast" alt="GitHub Streak" /></a>
