@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/followers/ahmednassar7?label=Followers&color=0e75b6&style=flat" alt="ahmednassar7" height="21" width="100" />
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmednassar7&theme=monokai&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="ahmednassar7" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmednassar7&theme=darkhub&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="ahmednassar7" /></a> </p>
 
 <img align="right" width="360" height="230" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
