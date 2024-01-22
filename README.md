@@ -43,3 +43,8 @@
 <p>&nbsp;<img align="right" width="400" height="185" src="https://github-readme-stats.vercel.app/api?username=ahmednassar7&show_icons=true&locale=en" alt="ahmednassar7" /></p>
 
 <a href="https://git.io/streak-stats"><img align="center" width="1000" height="180" src="https://streak-stats.demolab.com?user=ahmednassar7&theme=highcontrast" alt="GitHub Streak" /></a>
+
+<h3 align="left">LeetCode:</h3>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/nasssar?width=500&theme=dark&ext=heatmap" />
+</p>
