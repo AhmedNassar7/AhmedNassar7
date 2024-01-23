@@ -27,7 +27,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Generate the snake files in './dist/'
-        run: python generate_snake.py AhmedNassar7
+        run: python generate_snake.py ahmednassar7
 
       - name: Push new files to the output branch
         uses: ad-m/github-push-action@master
