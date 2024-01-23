@@ -48,13 +48,6 @@
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
-<h3 align="left">LeetCode:</h3>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/nasssar?width=500&theme=dark&ext=heatmap" />
-</p>
-
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-
 <h3 align="left">Snake Eating My Contributions:</h3>
 <p align="center">
 	<picture>
