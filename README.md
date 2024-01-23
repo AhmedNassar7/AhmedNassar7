@@ -12,17 +12,13 @@
 
 <img align="right" width="360" height="230" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-- 🔭 I’m currently working as a **Software Engineer**
+- 🔭 I’m a `Junior Computer Science Student`. 
 
-- 🌱 I’m currently learning **Software Engineering & Web Development**
+- 🌱 I’m learning `Software Engineering` and `Web Development`.
 
-- 👯 I’m looking to collaborate on **Web Development Projects**
+- 🤝 I’m looking for an `Internship` or a `Part-Time Job`.
 
-- 🤝 I’m looking for **Internship or Part-Time Job**
-
-- 📫 How to reach me **a.moh.nassar00@gmail.com**
-
-- 📄 Know about my experiences in my [Resume](https://flowcv.com/resume/4g77s9gmo6)
+- 📄 Know about my experiences in my [RESUME](https://flowcv.com/resume/4g77s9gmo6)
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
