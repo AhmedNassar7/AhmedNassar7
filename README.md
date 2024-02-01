@@ -3,12 +3,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Web+Developer;Competitive+Programmer;Junior+Computer+Science+Student;Former+SWE+Intern+@Nokia;Web+Developer+@OSC;Software+Engineer+@Google+DSC+CU;1x+ECPC+Finalist;Top+6.9%+LeetCoders;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
-<div align="center">
-  <a href=#>
-  <img src="Ahmed Nassar.gif" alt="Ahmed Nassar" width="70%" height="200" >
-</a>
-</div>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmednassar7&label=Profile%20views&color=0e75b6&style=flat" alt="ahmednassar7" /> 
   <img src="https://img.shields.io/github/followers/ahmednassar7?label=Followers&color=0e75b6&style=flat" alt="ahmednassar7" height="21" width="100" />
