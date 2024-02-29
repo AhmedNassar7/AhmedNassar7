@@ -1,6 +1,6 @@
 <h1 align="center">Welcome 👋, I'm Ahmed Nassar</h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Web+Developer;Competitive+Programmer;Junior+Computer+Science+Student;Former+SWE+Intern+@Nokia;Web+Developer+@OSC;Software+Engineer+@Google+DSC+CU;Competitive+Programmer+@Coach+Academy;1x+ACPC+Finalist;2x+ECPC+Finalist;Top+6.9%+LeetCoders;Always+learning+new+things" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Web+Developer;Competitive+Programmer;Junior+Computer+Science+Student;Former+SWE+Intern+@Nokia;Competitive+Programmer+@Coach+Academy;Web+Developer+@OSC;Software+Engineer+@Google+Developer+Student+Club;1x+ACPC+Finalist;2x+ECPC+Finalist;Top+6.9%+LeetCoders;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -12,13 +12,15 @@
 
 <img align="right" width="330" height="200" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-- 🤓 I’m a `Junior Computer Science Student`. 
+- I’m a `Junior Computer Science Student`.
+  
+- I’m learning `Software Engineering` and `Web Development`.
+  
+- I’m looking for an `Internship` or a `Part-Time Job`.
+  
+- Know more about my experiences in my [RESUME](https://flowcv.com/resume/4g77s9gmo6)
 
-- 🌱 I’m learning `Software Engineering` and `Web Development`.
-
-- 🤝 I’m looking for an `Internship` or a `Part-Time Job`.
-
-- 📄 Know about my experiences in my [RESUME](https://flowcv.com/resume/4g77s9gmo6)
+- I hope you enjoy my profile.
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
