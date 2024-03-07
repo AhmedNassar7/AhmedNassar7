@@ -20,7 +20,7 @@
   
 - Know more about my experiences in my [RESUME](https://flowcv.com/resume/4g77s9gmo6)
 
-- I hope you enjoy my profile.
+- I hope you enjoy my GitHub profile.
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
