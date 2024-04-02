@@ -20,7 +20,7 @@
   
 - I’m looking for an `Internship` or a `Part-Time Job`.
   
-- Know more about my experiences in my [RESUME](https://flowcv.com/resume/4g77s9gmo6)
+<!-- Know more about my experiences in my [RESUME](https://flowcv.com/resume/4g77s9gmo6) -->
 
 - I hope you enjoy my GitHub profile.
 
