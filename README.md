@@ -41,7 +41,9 @@
 <h3 align="left">Problem Solving:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/a_moh_nassar00" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="a_moh_nassar00" height="30" width="40" /></a>
+<!--
 <a href="https://codeforces.com/profile/ahmed_nassar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmed_nassar" height="30" width="40" /></a>
+-->
 <a href="https://www.leetcode.com/nasssar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nasssar" height="30" width="40" /></a>
 </p>
 
