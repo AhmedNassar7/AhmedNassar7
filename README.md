@@ -21,7 +21,7 @@
   
 - I’m looking for an `Internship` or a `Part-Time Job`.
   
-- Know more about my experiences in my [RESUME](https://drive.google.com/file/d/1w0nYPAY-tKyk7hEJ1Jr6ImLAeaX3Hr8H/view?usp=sharing) 
+- Know more about my experiences in my [Resume](https://drive.google.com/file/d/1w0nYPAY-tKyk7hEJ1Jr6ImLAeaX3Hr8H/view?usp=sharing) 
 
 - I hope you enjoy my GitHub profile.
 
