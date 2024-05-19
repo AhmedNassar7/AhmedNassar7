@@ -17,13 +17,13 @@
 
 - I’m a `3rd Year Computer Science Student`.
   
-- I’m learning `Software Engineering` and `Web Development`.
+- learning `Software Engineering` and `Web Development`.
   
-- I’m looking for an `Internship` or a `Part-Time Job`.
+- looking for an `Internship` or a `Part-Time Job`.
   
 - Know more about my experiences in my [Resume](https://drive.google.com/file/d/1w0nYPAY-tKyk7hEJ1Jr6ImLAeaX3Hr8H/view?usp=sharing) 
 
-- I hope you enjoy my GitHub profile.
+- Enjoy my GitHub profile.
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
