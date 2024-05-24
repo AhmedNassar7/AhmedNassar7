@@ -18,6 +18,8 @@
 - I’m a `3rd Year Computer Science Student`.
   
 - learning `Software Engineering` and `Web Development`.
+
+- Working on my `Portfolio` project.
   
 - looking for an `Internship` or a `Part-Time Job`.
   
