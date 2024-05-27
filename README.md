@@ -1,4 +1,4 @@
-<h1 align="center">Welcome 👋, I'm Ahmed Nassar</h1>
+<h1 align="center">Welcome, I'm Ahmed Nassar 👋</h1>
 
 
 <p align="center">
@@ -17,11 +17,11 @@
 
 - I’m a `3rd Year Computer Science Student`.
   
-- learning `Software Engineering` and `Web Development`.
+- Learning `Software Engineering` and `Web Development`.
 
 - Working on my `Portfolio` project.
   
-- looking for an `Internship` or a `Part-Time Job`.
+- Looking for an `Internship` or a `Part-Time Job`.
   
 - Know more about my experiences in my [Resume](https://drive.google.com/file/d/1w0nYPAY-tKyk7hEJ1Jr6ImLAeaX3Hr8H/view?usp=sharing) 
 
