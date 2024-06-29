@@ -33,8 +33,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/nasssar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100004270350132" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://wa.me/0201110102554" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/whatsapp/whatsapp.svg" alt="WhatsApp" height="30" width="30" /></a>
-<a href="https://t.me/nassarrrr" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/telegram/telegram.svg" alt="Telegram" height="30" width="32" /></a>
+<a href="https://wa.me/0201110102554" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/whatsapp/whatsapp.svg" alt="WhatsApp" height="30" width="30" /></a>
+<a href="https://t.me/nassarrrr" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/telegram/telegram.svg" alt="Telegram" height="30" width="32" /></a>
 <a href="https://instagram.com/ahmed_nassar__" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 <!-- <a href="mailto:a.moh.nassar00@gmail.com"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/gmail/gmail.svg" alt="Gmail" height="30" width="32" /></a> -->
 </p>
