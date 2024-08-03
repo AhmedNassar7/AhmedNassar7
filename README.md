@@ -22,8 +22,12 @@
 - Working on my `Portfolio` project.
   
 - Looking for an `Internship` or a `Part-Time Job`.
-  
-- Know more about my experiences in my [Resume](https://drive.google.com/file/d/1w0nYPAY-tKyk7hEJ1Jr6ImLAeaX3Hr8H/view?usp=sharing) 
+
+- Former Intern @ [Nokia](https://www.nokia.com/), [Banque Misr](https://www.banquemisr.com/), [AAIB](https://www.aaib.com/), [CIB](https://www.cibeg.com/).
+
+- Trainee @ [ITI](https://iti.gov.eg/home), [Coach Academy](https://coachacademy.club/).
+
+- Know more about my experiences in my [Resume](https://drive.google.com/file/d/1w0nYPAY-tKyk7hEJ1Jr6ImLAeaX3Hr8H/view?usp=sharing).
 
 - Enjoy my GitHub profile.
 
