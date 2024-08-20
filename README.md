@@ -19,6 +19,8 @@
   
 - Learning `Software Engineering` and `Web Development`.
 
+- Ask me about `React`, `Django`, and `Python`.
+
 - Working on my `Portfolio` project.
   
 - Looking for an `Internship` or a `Part-Time Job`.
