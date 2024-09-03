@@ -25,7 +25,7 @@
   
 - Looking for an `Internship` or a `Part-Time Job`.
 
-- Former Intern @ [Nokia](https://www.nokia.com/), [Banque Misr](https://www.banquemisr.com/), [AAIB](https://www.aaib.com/), [CIB](https://www.cibeg.com/).
+- Former Intern @ [Nokia](https://www.nokia.com/), [Orange Digital Center](https://www.orangedigitalcenters.com/country/EG/home), [Banque Misr](https://www.banquemisr.com/), [AAIB](https://www.aaib.com/), [CIB](https://www.cibeg.com/).
 
 - Trainee @ [ITI](https://iti.gov.eg/home), [Coach Academy](https://web.facebook.com/coach.academy.eg/?_rdc=1&_rdr).
 
