@@ -20,8 +20,6 @@
 - Learning `Software Engineering` and `Web Development`.
 
 - Ask me about `React`, `Django`, and `Python`.
-
-- Working on my `Portfolio` project.
   
 - Looking for an `Internship` or a `Part-Time Job`.
 
@@ -29,7 +27,7 @@
 
 - Trainee @ [Information Technology Institute](https://iti.gov.eg/home), [Coach Academy](https://web.facebook.com/coach.academy.eg/?_rdc=1&_rdr).
 
-- Know more about my experiences in my [Resume](https://drive.google.com/file/d/1O_BvyhpOQAjNFaXO4oM1-Fhc3MN12oul/view).
+- Know more about my experiences in my [Resume](https://drive.google.com/file/d/1O_BvyhpOQAjNFaXO4oM1-Fhc3MN12oul/view?usp=sharing).
 
 - Enjoy my GitHub profile.
 
