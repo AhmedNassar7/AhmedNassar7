@@ -90,10 +90,10 @@
 
 | 🏢 Company | 💼 Role | ⏰ Duration | 📄 Certificate |
 | --- | --- | --- | --- |
-| [Information Technology Institute](https://iti.gov.eg/home) | Front-End using React Trainee | Sep 2024 | [Show]() |
-| [Information Technology Institute](https://iti.gov.eg/home) | Web Development Trainee | Aug 2024 - Sep 2024 | [Show]() |
-| [Information Technology Institute](https://iti.gov.eg/home) | Web Development using Python Trainee | Aug 2024 | [Show]() |
-| [Coach Academy](https://web.facebook.com/coach.academy.eg/?_rdc=1&_rdr) | Competitive Programming Trainee | Nov 2023 - April 2024 | [Show]() |
+| [Information Technology Institute](https://iti.gov.eg/home) | React Trainee | Sep 2024 | [Show](https://drive.google.com/file/d/1-lG9hDcbpYhglkEmCWdwKhl1amT9VDHd/view?usp=sharing) |
+| [Information Technology Institute](https://iti.gov.eg/home) | Web Development Trainee | Aug 2024 - Sep 2024 | [Show](https://drive.google.com/file/d/1VdY-gj0dx8uYkN4zD4GrkRj7cJ5JlcuU/view?usp=sharing) |
+| [Information Technology Institute](https://iti.gov.eg/home) | Web Development using Python Trainee | Aug 2024 |  |
+| [Coach Academy](https://web.facebook.com/coach.academy.eg/?_rdc=1&_rdr) | Competitive Programming Trainee | Nov 2023 - April 2024 | [Show](https://drive.google.com/file/d/1-AD9o8hMPRGpaiMABcAgaG462ZKxx6mF/view?usp=sharing) |
 
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
