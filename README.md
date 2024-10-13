@@ -17,12 +17,13 @@
 <div align="center">
 
 <span>[<kbd> <br> About <br> </kbd>](#about)</span>
-<span>[<kbd> <br> Work Experience <br> </kbd>](#work-experience)</span>
+<span>[<kbd> <br> Work Experience <br> </kbd>](#work-experience)</span>
 <span>[<kbd> <br> Training <br> </kbd>](#training-experience)</span>
 <span>[<kbd> <br> Volunteering <br> </kbd>](#volunteering-experience)</span>
 <span>[<kbd> <br> Awards <br> </kbd>](#awards)</span>
 <span>[<kbd> <br> Education <br> </kbd>](#education)</span>
 <span>[<kbd> <br> Languages & Tools <br> </kbd>](#languages-and-tools)</span>
+
 
 <a href="https://linkedin.com/in/nasssar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="40" /></a> 
 &nbsp;
@@ -42,7 +43,9 @@
 </div>
 
 
+
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
 
 
 ## About
@@ -63,19 +66,15 @@
 
 - 🙏 Enjoy my GitHub profile.
 
-<!--
-- Former Intern @ [Nokia](https://www.nokia.com/), [Orange Digital Center](https://www.orangedigitalcenters.com/country/EG/home), [Banque Misr](https://www.banquemisr.com/), [Arab African International Bank](https://www.aaib.com/), [Commercial International Bank](https://www.cibeg.com/).
-
-- Trainee @ [Information Technology Institute](https://iti.gov.eg/home), [Coach Academy](https://web.facebook.com/coach.academy.eg/?_rdc=1&_rdr).
--->
 
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 
+
 ## Work Experience
 
-| 🏢 Company/Org | 💼 Role | ⏰ Duration |
+| 🏢 Company | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
 | [Orange Digital Center](https://www.orangedigitalcenters.com/country/EG/home) | Software Engineer Intern | Sep 2024 - Oct 2024 |
 | [Arab African International Bank](https://www.aaib.com/) | Backend Engineer Intern | Jul 2024 - Aug 2024 | 
@@ -83,20 +82,36 @@
 | [Banque Misr](https://www.banquemisr.com/) | Frontend Engineer Intern | Jul 2023 - Aug 2023 |
 
 
+
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
 
 
 ## Training Experience
 
-| 🏢 Company | 💼 Role | ⏰ Duration | 📄 Certificate |
+| 🏢 Organization | 💼 Role | ⏰ Duration | 📄 Certificate |
 | --- | --- | --- | --- |
-| [Information Technology Institute](https://iti.gov.eg/home) | React Trainee | Sep 2024 | [Show](https://drive.google.com/file/d/1-lG9hDcbpYhglkEmCWdwKhl1amT9VDHd/view?usp=sharing) |
-| [Information Technology Institute](https://iti.gov.eg/home) | Web Development Trainee | Aug 2024 - Sep 2024 | [Show](https://drive.google.com/file/d/1VdY-gj0dx8uYkN4zD4GrkRj7cJ5JlcuU/view?usp=sharing) |
+| [Information Technology Institute](https://iti.gov.eg/home) | React Trainee | Sep 2024 | [Certificate](https://drive.google.com/file/d/1-lG9hDcbpYhglkEmCWdwKhl1amT9VDHd/view?usp=sharing) |
+| [Information Technology Institute](https://iti.gov.eg/home) | Web Development Trainee | Aug 2024 - Sep 2024 | [Certificate](https://drive.google.com/file/d/1VdY-gj0dx8uYkN4zD4GrkRj7cJ5JlcuU/view?usp=sharing) |
 | [Information Technology Institute](https://iti.gov.eg/home) | Web Development using Python Trainee | Aug 2024 |  |
-| [Coach Academy](https://coachacademy.club/) | Competitive Programming Trainee | Nov 2023 - April 2024 | [Show](https://drive.google.com/file/d/1-AD9o8hMPRGpaiMABcAgaG462ZKxx6mF/view?usp=sharing) |
+| [Coach Academy](https://coachacademy.club/) | Competitive Programming Trainee | Nov 2023 - April 2024 | [Certificate](https://drive.google.com/file/d/1-AD9o8hMPRGpaiMABcAgaG462ZKxx6mF/view?usp=sharing) |
+
 
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
+
+
+## Volunteering Experience
+
+| 🏢 Student Club | 💼 Role | ⏰ Duration | 📄 Certificate |
+| --- | --- | --- | --- |
+| [GDSC Cairo University](https://iti.gov.eg/home) | React Trainee | Sep 2024 | [Certificate]() |
+
+
+
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
 
 <!--
 <h3 align="left">Connect with me:</h3>
