@@ -17,7 +17,7 @@
 <div align="center">
 
 <span>[<kbd> <br> About <br> </kbd>](#about)</span>
-<span>[<kbd> <br> Work Experience <br> </kbd>](#work-experience)</span>
+<span>[<kbd> <br> Internships <br> </kbd>](#Internship-experience)</span>
 <span>[<kbd> <br> Training <br> </kbd>](#training-experience)</span>
 <span>[<kbd> <br> Volunteering <br> </kbd>](#volunteering-experience)</span>
 <span>[<kbd> <br> Awards <br> </kbd>](#awards)</span>
@@ -72,7 +72,7 @@
 
 
 
-## Work Experience
+## Internship Experience
 
 | 🏢 Company | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
