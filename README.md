@@ -1,8 +1,9 @@
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
 <h1 id="top" align="center">Welcome, I'm Ahmed Nassar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></h1>
 
-
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=900&size=28&color=0d8eceF&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+💻;Full+Stack+Developer+🌐;Senior+CS+Student+👨🏻‍🎓" alt="Typing SVG" /> 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira&weight=900&size=28&color=0d8eceF&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+💻;Full+Stack+Developer+🌐;Senior+CS+Student+👨🏻‍🎓" alt="Typing SVG" /> 
   </a>
 </p>
 
@@ -187,6 +188,8 @@
 - Leave a message <a href="https://github.com/ahmednassar7/ahmednassar7/issues/new?template=guestbook-entry.md">Here</a>
 
 <p align="center"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=00526f&style=flat&logo" alt="back to top" /></a></p>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 <!-- - Ask anything at <a href="https://github.com/ahmednassar7/ahmednassar7/discussions/new/choose">Discussions</a> -->
 
