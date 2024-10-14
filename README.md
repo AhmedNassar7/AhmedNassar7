@@ -18,7 +18,7 @@
 <div align="center">
 
 <span>[<kbd> <br> About <br> </kbd>](#about)</span>
-<span>[<kbd> <br> Internships <br> </kbd>](#Internship-experience)</span>
+<span>[<kbd> <br> Internships <br> </kbd>](#💼-Internship-experience)</span>
 <span>[<kbd> <br> Training <br> </kbd>](#training-experience)</span>
 <span>[<kbd> <br> Volunteering <br> </kbd>](#volunteering-experience)</span>
 <span>[<kbd> <br> Social Media <br> </kbd>](#social-media)</span>
