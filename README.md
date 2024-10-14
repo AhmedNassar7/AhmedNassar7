@@ -1,4 +1,4 @@
-<h1 align="center">Welcome, I'm Ahmed Nassar 👋</h1>
+<h1 id="top" align="center">Welcome, I'm Ahmed Nassar 👋</h1>
 
 
 <p align="center">
@@ -168,7 +168,7 @@
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 
-<h2 align="left">🐍 Snake Eating My Contributions:</h2>
+## 🐍 Snake Eating My Contributions
 <p align="center">
 	<picture>
 		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmednassar7/ahmednassar7/output/github-contribution-grid-snake-dark.svg">
@@ -182,7 +182,8 @@
 <h2>:book: Guest Book</h2>
 
 - Leave a message <a href="https://github.com/ahmednassar7/ahmednassar7/issues/new?template=guestbook-entry.md">Here</a>
-<p align="center"><a href="h1"><img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=00526f&style=flat&logo" alt="back to top" /></a></p>
+
+<p align="center"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=00526f&style=flat&logo" alt="back to top" /></a></p>
 
 <!-- - Ask anything at <a href="https://github.com/ahmednassar7/ahmednassar7/discussions/new/choose">Discussions</a> -->
 
