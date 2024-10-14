@@ -25,7 +25,7 @@
 <span>[<kbd> <br> Awards <br> </kbd>](#awards)</span>
 <span>[<kbd> <br> Education <br> </kbd>](#education)</span>
 <span>[<kbd> <br> Technical Skills <br> </kbd>](#technical-skills)</span>
-<span>[<kbd> <br> GitHub Stats <br> </kbd>](#gitHub-stats)</span>
+<span>[<kbd> <br> GitHub Stats <br> </kbd>](#github-stats)</span>
 
 <a href="https://linkedin.com/in/nasssar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a> 
 
