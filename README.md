@@ -65,9 +65,9 @@
 | 🏢 Company | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
 | [Orange Digital Center](https://www.orangedigitalcenters.com/country/EG/home) | Software Engineer Intern | Sep 2024 - Oct 2024 |
-| [Arab African International Bank](https://www.aaib.com/) | Backend Engineer Intern | Jul 2024 - Aug 2024 | 
+| [Arab African International Bank](https://www.aaib.com/) | Backend Developer Intern | Jul 2024 - Aug 2024 | 
 | [Nokia](https://www.nokia.com/) | Software Engineer Intern | Aug 2023 - Oct 2023 |
-| [Banque Misr](https://www.banquemisr.com/) | Frontend Engineer Intern | Jul 2023 - Aug 2023 |
+| [Banque Misr](https://www.banquemisr.com/) | Frontend Developer Intern | Jul 2023 - Aug 2023 |
 
 
 
