@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmednassar7&label=Profile%20views&color=0e75b6&style=flat" alt="Views" height="21" /> 
   <img src="https://img.shields.io/github/followers/ahmednassar7?label=Followers&color=0e75b6&style=flat" alt="Followers" height="21" width="100" />
-  <img src="https://img.shields.io/github/stars/ahmednassar7/software-engineering?color=0e75b6&style=flat" alt="Stars" height="21" />
+  <img src="https://img.shields.io/github/stars/ahmednassar7?color=0e75b6&style=flat" alt="Stars" height="21" />
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmednassar7&theme=darkhub&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="ahmednassar7" /></a> </p>
