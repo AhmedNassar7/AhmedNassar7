@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/github/stars/ahmednassar7?color=0e75b6&style=flat" alt="Stars" height="21" />
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmednassar7&theme=darkhub&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="ahmednassar7" /></a> </p>
+<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmednassar7&theme=darkhub&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="ahmednassar7" /></a> </p>
 
 <div align="center">
 
@@ -21,26 +21,12 @@
 <span>[<kbd> <br> Internships <br> </kbd>](#Internship-experience)</span>
 <span>[<kbd> <br> Training <br> </kbd>](#training-experience)</span>
 <span>[<kbd> <br> Volunteering <br> </kbd>](#volunteering-experience)</span>
+<span>[<kbd> <br> Social Media <br> </kbd>](#social-media)</span>
 <span>[<kbd> <br> Awards <br> </kbd>](#awards)</span>
 <span>[<kbd> <br> Education <br> </kbd>](#education)</span>
 <span>[<kbd> <br> Languages & Tools <br> </kbd>](#languages-and-tools)</span>
 
-
-<a href="https://linkedin.com/in/nasssar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="40" /></a> 
-&nbsp;
-<a href="https://fb.com/profile.php?id=100004270350132" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="35" /></a>
-&nbsp;
-<a href="https://wa.me/0201110102554" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/whatsapp/whatsapp.svg" alt="WhatsApp" height="40" width="35" /></a>
-&nbsp;
-<a href="https://t.me/nassarrrr" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/telegram/telegram.svg" alt="Telegram" height="40" width="35" /></a>
-&nbsp;
-<a href="https://instagram.com/ahmed_nassar__" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="35" /></a>
-&nbsp;
-<a href="mailto:a.moh.nassar00@gmail.com"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/gmail/gmail.svg" alt="Gmail" height="40" width="35" /></a>
-&nbsp;
-<a href="https://www.hackerrank.com/a_moh_nassar00" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HacherRank" height="40" width="35" /></a>
-&nbsp;
-<a href="https://www.leetcode.com/nasssar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="40" width="35" /></a>
+<a href="https://linkedin.com/in/nasssar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a> 
 
 </div>
 
@@ -109,6 +95,30 @@
 | 🏢 Student Club | 💼 Role | ⏰ Duration | 📄 Certificate |
 | --- | --- | --- | --- |
 | [GDSC Cairo University](https://iti.gov.eg/home) | React Trainee | Sep 2024 | [Certificate]() |
+
+
+
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
+
+
+## <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="25"> Social Media
+
+<a href="https://linkedin.com/in/nasssar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="40" /></a> 
+&nbsp;
+<a href="https://fb.com/profile.php?id=100004270350132" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="35" /></a>
+&nbsp;
+<a href="https://wa.me/0201110102554" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/whatsapp/whatsapp.svg" alt="WhatsApp" height="40" width="35" /></a>
+&nbsp;
+<a href="https://t.me/nassarrrr" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/telegram/telegram.svg" alt="Telegram" height="40" width="35" /></a>
+&nbsp;
+<a href="https://instagram.com/ahmed_nassar__" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="35" /></a>
+&nbsp;
+<a href="mailto:a.moh.nassar00@gmail.com"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/gmail/gmail.svg" alt="Gmail" height="40" width="35" /></a>
+&nbsp;
+<a href="https://www.hackerrank.com/a_moh_nassar00" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HacherRank" height="40" width="35" /></a>
+&nbsp;
+<a href="https://www.leetcode.com/nasssar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="40" width="35" /></a>
 
 
 
