@@ -23,8 +23,6 @@
 <span>[<kbd> <br> Training <br> </kbd>](#training-experience)</span>
 <span>[<kbd> <br> Volunteering <br> </kbd>](#volunteering-experience)</span>
 <span>[<kbd> <br> Social Media <br> </kbd>](#social-media)</span>
-<span>[<kbd> <br> Awards <br> </kbd>](#awards)</span>
-<span>[<kbd> <br> Education <br> </kbd>](#education)</span>
 <span>[<kbd> <br> Technical Skills <br> </kbd>](#technical-skills)</span>
 <span>[<kbd> <br> GitHub Stats <br> </kbd>](#github-stats)</span>
 
