@@ -23,8 +23,6 @@
 <span>[<kbd> <br> Training <br> </kbd>](#training-experience)</span>
 <span>[<kbd> <br> Volunteering <br> </kbd>](#volunteering-experience)</span>
 <span>[<kbd> <br> Social Media <br> </kbd>](#social-media)</span>
-<span>[<kbd> <br> Awards <br> </kbd>](#awards)</span>
-<span>[<kbd> <br> Education <br> </kbd>](#education)</span>
 <span>[<kbd> <br> Technical Skills <br> </kbd>](#technical-skills)</span>
 <span>[<kbd> <br> GitHub Stats <br> </kbd>](#github-stats)</span>
 
@@ -81,10 +79,10 @@
 
 | 🏢 Organization | 💼 Role | ⏰ Duration | 📄 Certificate |
 | --- | --- | --- | --- |
-| [Information Technology Institute](https://iti.gov.eg/home) | React Trainee | Sep 2024 | [Certificate](https://drive.google.com/file/d/1-lG9hDcbpYhglkEmCWdwKhl1amT9VDHd/view?usp=sharing) |
-| [Information Technology Institute](https://iti.gov.eg/home) | Web Development Trainee | Aug 2024 - Sep 2024 | [Certificate](https://drive.google.com/file/d/1VdY-gj0dx8uYkN4zD4GrkRj7cJ5JlcuU/view?usp=sharing) |
-| [Information Technology Institute](https://iti.gov.eg/home) | Web Development using Python Trainee | Jul 2024 - Aug 2024 |  |
-| [Coach Academy](https://coachacademy.club/) | Competitive Programming Trainee | Nov 2023 - April 2024 | [Certificate](https://drive.google.com/file/d/1-AD9o8hMPRGpaiMABcAgaG462ZKxx6mF/view?usp=sharing) |
+| [Information Technology Institute](https://iti.gov.eg/home) | React Trainee | Sep 2024 | [Certificate](certificates/training/iti-react.pdf) |
+| [Information Technology Institute](https://iti.gov.eg/home) | Web Development Trainee | Aug 2024 - Sep 2024 | [Certificate](certificates/training/iti-web-development.pdf) |
+| [Information Technology Institute](https://iti.gov.eg/home) | Full Stack Web Development using Python Trainee | Jul 2024 - Aug 2024 |  |
+| [Coach Academy](https://coachacademy.club/) | Competitive Programming Trainee | Nov 2023 - April 2024 | [Certificate](certificates/training/coach-academy.pdf) |
 
 
 
@@ -104,7 +102,7 @@
 | [SemiColon](https://www.linkedin.com/company/semicolon.org/) | Data Structure & Algorithms Head | [Core Team](certificates/others/core-team-semicolon.jpeg) |
 | [Enactus Modern Academy](https://www.linkedin.com/company/enactus-modern-academy/) | IT Member | [Acceptance](certificates/others/acceptance-enactus.jpeg) |
 | [GDSC Modern Academy](https://www.linkedin.com/company/gdg-campus-modern-academy-for-computer-science/) | Event Manager Member | [Certificate](certificates/volunteering/gdsc-ma.jpg) |
-| [Techne](https://www.linkedin.com/company/techne.me/) | Event Organizer | [Certificate 2023](certificates/volunteering/techne'23.pdf) <br> [Certificate 2024](certificates/volunteering/techne'24.pdf) |
+| [Techne](https://www.linkedin.com/company/techne.me/) | Event Organizer | [Certificate 2023](certificates/volunteering/techne'23.pdf) \| [Certificate 2024](certificates/volunteering/techne'24.pdf) |
 | [Egypt Career Summit](https://www.linkedin.com/company/egypt-career-summit/) | Event Organizer | [Certificate](certificates/volunteering/ecs.png) |
 | [iCareer](https://www.linkedin.com/company/icareereg/) | Event Organizer | [Core Team](certificates/others/core-team-icareer.jpeg) |
 | [Startups Without Borders](https://www.linkedin.com/company/startups-without-borders-eg/) | Event Organizer | [Acceptance](certificates/others/acceptance-swb.jpeg) |
