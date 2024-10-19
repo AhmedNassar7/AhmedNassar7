@@ -25,6 +25,7 @@
 <span>[<kbd> <br> Social Media <br> </kbd>](#social-media)</span>
 <span>[<kbd> <br> Technical Skills <br> </kbd>](#technical-skills)</span>
 <span>[<kbd> <br> GitHub Stats <br> </kbd>](#github-stats)</span>
+<span>[<kbd> <br> Snake <br> </kbd>](#snake)</span>
 
 <a href="https://linkedin.com/in/nasssar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a> 
 
@@ -164,7 +165,7 @@
 
 
 
-## 🐍 Snake Eating My Contributions
+<h2><a id="snake"></a> 🐍 Snake Eating My Contributions</h2>  
 <p align="center">
 	<picture>
 		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmednassar7/ahmednassar7/output/github-contribution-grid-snake-dark.svg">
