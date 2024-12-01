@@ -28,9 +28,9 @@
 <span>[<kbd> <br> Snake <br> </kbd>](#snake)</span>
 
 <a href="https://www.linkedin.com/in/nasssar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a> 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://ahmednassar7.github.io/" target="_blank">
-  <img align="center" src="https://img.icons8.com/ios-filled/50/ffffff/internet.png" alt="Portfolio" height="40" width="40" />
+  <img align="center" src="logo.png" alt="Portfolio" height="40" width="40" style="margin-top: 10px; border-radius: 50%;" />
 </a>
 
 </div>
