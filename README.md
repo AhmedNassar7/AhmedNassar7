@@ -26,6 +26,7 @@
 <span>[<kbd> <br> Technical Skills <br> </kbd>](#technical-skills)</span>
 <span>[<kbd> <br> GitHub Stats <br> </kbd>](#github-stats)</span>
 <span>[<kbd> <br> Snake <br> </kbd>](#snake)</span>
+<span>[<kbd> <br> Graph <br> </kbd>](#graph)</span>
 
 <a href="https://www.linkedin.com/in/nasssar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a> 
 &nbsp;&nbsp;&nbsp;
@@ -178,6 +179,13 @@
 		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ahmednassar7/ahmednassar7/output/github-contribution-grid-snake.svg">
 	</picture>
 </p>
+
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
+<h2><a id="graph"></a>📈 Contributions Graph</h2>  
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmedNassar7&bg_color=000000&color=ffffff&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
