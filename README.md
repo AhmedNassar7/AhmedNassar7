@@ -22,9 +22,9 @@
 <span>[<kbd> <br> Internships <br> </kbd>](#internship-experience)</span>
 <span>[<kbd> <br> Training <br> </kbd>](#training-experience)</span>
 <span>[<kbd> <br> Volunteering <br> </kbd>](#volunteering-experience)</span>
-<span>[<kbd> <br> Social Media <br> </kbd>](#social-media)</span>
-<span>[<kbd> <br> Technical Skills <br> </kbd>](#technical-skills)</span>
-<span>[<kbd> <br> GitHub Stats <br> </kbd>](#github-stats)</span>
+<span>[<kbd> <br> Socials <br> </kbd>](#social-media)</span>
+<span>[<kbd> <br> Skills <br> </kbd>](#technical-skills)</span>
+<span>[<kbd> <br> Stats <br> </kbd>](#github-stats)</span>
 <span>[<kbd> <br> Snake <br> </kbd>](#snake)</span>
 <span>[<kbd> <br> Graph <br> </kbd>](#graph)</span>
 
@@ -42,7 +42,7 @@
 
 
 
-<h2><a id="about"></a><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="40"> About</h2>
+<h2><a id="about"></a><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="40"> About Me</h2>
 
 <img align="right" width="370" height="255" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
@@ -81,7 +81,7 @@
 
 
 
-<h2><a id="training-experience"></a>📚 Training</h2>
+<h2><a id="training-experience"></a>📚 Training Experience</h2>
 
 | 🏢 Organization | 💼 Role | ⏰ Duration | 📄 Certificate |
 | --- | --- | --- | --- |
@@ -96,7 +96,7 @@
 
 
 
-<h2><a id="volunteering-experience"></a>🤝 Volunteering</h2>
+<h2><a id="volunteering-experience"></a>🤝 Volunteering Experience</h2>
 
 | 🏢 Student Clubs | 💼 Role | 📄 Certificates |
 | --- | --- | --- |
