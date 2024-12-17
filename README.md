@@ -29,7 +29,7 @@
 <span>[<kbd> <br> Graph <br> </kbd>](#graph)</span>
 
 <a href="https://www.linkedin.com/in/nasssar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a> 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://ahmednassar7.github.io/" target="_blank" >
   <img align="center" src="logo.png" alt="Portfolio" height="40" width="40" />
 </a>
