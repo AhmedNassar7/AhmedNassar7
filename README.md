@@ -56,7 +56,7 @@
   
 - 🔍 Seeking an `Internship` or a `Part-Time Job`.
 
-- 📄 Know more about my experiences in my **[Resume](https://drive.google.com/file/d/1PW1jGpB-F0DfGeJBBl5swnDYAQyWZa05/view?usp=sharing)**.
+- 📄 Know more about my experiences in my **[Resume](https://drive.google.com/file/d/1BxtbucAH1L7CojdrJCPoFiDcviuxYhFH/view?usp=sharing)**.
 
 - ✨ Enjoy my GitHub profile.
 
