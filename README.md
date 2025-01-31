@@ -86,9 +86,9 @@
 | 🏢 Organization | 💼 Role | ⏰ Duration | 📄 Certificate |
 | --- | --- | --- | --- |
 | [Information Technology Institute](https://iti.gov.eg/home) | Programming Fundamentals Trainee | Jan 2025 - Present |  |
-| [Information Technology Institute](https://iti.gov.eg/home) | React Trainee | Sep 2024 - Sep 2024 | [Certificate](certificates/training/iti-react.pdf) |
-| [Information Technology Institute](https://iti.gov.eg/home) | Web Development Trainee | Aug 2024 - Sep 2024 | [Certificate](certificates/training/iti-web-development.pdf) |
-| [Information Technology Institute](https://iti.gov.eg/home) | Full Stack Web Development using Python Trainee | Jul 2024 - Aug 2024 | [Certificate](certificates/training/iti-python.pdf) |
+| ↳ | Frontend using React Trainee | Sep 2024 - Sep 2024 | [Certificate](certificates/training/iti-react.pdf) |
+| ↳ | Web Development Trainee | Aug 2024 - Sep 2024 | [Certificate](certificates/training/iti-web-development.pdf) |
+| ↳ | Full Stack Web Development using Python Trainee | Jul 2024 - Aug 2024 | [Certificate](certificates/training/iti-python.pdf) |
 | [Coach Academy](https://coachacademy.club/) | Competitive Programming Trainee | Nov 2023 - April 2024 | [Certificate](certificates/training/coach-academy.pdf) |
 
 
