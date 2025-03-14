@@ -44,17 +44,21 @@
 
 <h2><a id="about"></a><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="40"> About Me</h2>
 
-<img align="right" width="370" height="255" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img align="right" width="370" height="340" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 - 👨‍🎓 I’m a `Senior Computer Science Student`.
   
 - 🚀 Passionate about `Web Development`.
 
-- 💡 Interested in contributing to `Open-Source Projects`.
+- 💡 Interested in contributing to `Open Source Projects`.
 
 - 💬 Ask me about `Software Engineering`.
+
+- 🎯 Focus on `Quality` over `Quantity`
   
 - 🔍 Seeking an `Internship` or a `Part-Time Job`.
+
+- 🔄 Repeat `Brainstorming`, `Coding`, `Debugging` 
 
 - 📄 Know more about my experiences in my **[Resume](https://drive.google.com/file/d/1BxtbucAH1L7CojdrJCPoFiDcviuxYhFH/view?usp=sharing)**.
 
