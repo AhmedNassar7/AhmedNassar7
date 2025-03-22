@@ -60,7 +60,7 @@
 
 - 🔄 Repeat `Brainstorming`, `Coding`, `Debugging` 
 
-- 📄 Know more about my experiences in my **[Resume](https://drive.google.com/file/d/1rt5K0T9NrVV9oAdE2-uCB_O-eWFbHBX-/view?usp=sharing)**.
+- 📄 Know more about my experiences in my **[Resume](https://drive.google.com/file/d/1AZ9sVmv92Bqf_8hZIC49jYnkNMwwdTUv/view?usp=sharing)**.
 
 - ✨ Enjoy my GitHub profile.
 
