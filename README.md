@@ -36,11 +36,7 @@
 
 </div>
 
-
-
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-
-
 
 <h2><a id="about"></a><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="40"> About Me</h2>
 
@@ -64,7 +60,9 @@
 
 - ✨ Enjoy my GitHub profile.
 
-
+<div align="center">
+  <img width="900" height="200" alt="Coding" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif">
+</div>
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
