@@ -40,7 +40,7 @@
 
 <h2><a id="about"></a><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="40"> About Me</h2>
 
-<img align="right" width="370" height="340" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img align="right" width="370" height="335" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 - 👨‍🎓 I’m a `Senior Computer Science Student`.
   
