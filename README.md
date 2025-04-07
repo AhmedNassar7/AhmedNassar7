@@ -84,17 +84,17 @@
 
 <h2><a id="open-source"></a>🤝 Open Source Contributions</h2>
 
-| 📂 Repository | 💡 Contribution | 🔗 PR | 📊 Status |
-| --- | --- | --- | --- |
-| [Django](https://github.com/django/django) | Deprecated HTTP as default protocol in urlize | [#19240](https://github.com/django/django/pull/19240) | Merged |
-| ↳ | Fixed contenttypes shortcut() view crash with invalid UUID | [#19296](https://github.com/django/django/pull/19296) | Merged |
-| ↳ | Added docs for testing callable storage in FileField | [#19349](https://github.com/django/django/pull/19349) | Open |
-| ↳ | Updated docs on gettext f-string support limitations | [#19348](https://github.com/django/django/pull/19348) | Open |
-| ↳ | Added support for translating unnamed URL paths | [#19327](https://github.com/django/django/pull/19327) | Open |
-| ↳ | Ensured RelatedFieldWidgetWrapper uses correct renderer | [#19271](https://github.com/django/django/pull/19271) | Open |
-| ↳ | Optimized no-op migration performance on SQLite | [#19278](https://github.com/django/django/pull/19278) | Open |
-| [Upwork Clone Frontend](https://github.com/activecourses/upwork-clone-frontend) | Set up Husky pre-commit hooks | [#31](https://github.com/activecourses/upwork-clone-frontend/pull/31) | Merged |
-| ↳ | Fixed props validation, line endings, and formatting | [#32](https://github.com/activecourses/upwork-clone-frontend/pull/32) | Merged |
+| 📂 Repository | 💡 Contribution | 📝 Type | 🔗 PR | 📊 Status |
+| --- | --- | --- | --- | --- |
+| [Django](https://github.com/django/django) | Deprecated HTTP as default protocol in urlize | Cleanup/optimization | [#19240](https://github.com/django/django/pull/19240) | ![Static Badge](https://img.shields.io/badge/Merged-8957e5) |
+| ↳ | Fixed contenttypes shortcut() view crash with invalid UUID | Bug | [#19296](https://github.com/django/django/pull/19296) | ![Static Badge](https://img.shields.io/badge/Merged-8957e5) |
+| ↳ | Added docs for testing callable storage in FileField | Cleanup/optimization | [#19349](https://github.com/django/django/pull/19349) | ![Static Badge](https://img.shields.io/badge/Open-2da44e) |
+| ↳ | Updated docs on gettext f-string support limitations | Documentation | [#19348](https://github.com/django/django/pull/19348) | ![Static Badge](https://img.shields.io/badge/Open-2da44e) |
+| ↳ | Added support for translating unnamed URL paths | Bug | [#19327](https://github.com/django/django/pull/19327) | ![Static Badge](https://img.shields.io/badge/Open-2da44e) |
+| ↳ | Ensured RelatedFieldWidgetWrapper uses correct renderer | Bug | [#19271](https://github.com/django/django/pull/19271) | ![Static Badge](https://img.shields.io/badge/Open-2da44e) |
+| ↳ | Optimized no-op migration performance on SQLite | Cleanup/optimization | [#19278](https://github.com/django/django/pull/19278) | ![Static Badge](https://img.shields.io/badge/Open-2da44e) |
+| [Upwork Clone Frontend](https://github.com/activecourses/upwork-clone-frontend) | Set up Husky pre-commit hooks | DevOps | [#31](https://github.com/activecourses/upwork-clone-frontend/pull/31) | ![Static Badge](https://img.shields.io/badge/Merged-8957e5) |
+| ↳ | Fixed props validation, line endings, and formatting | Code Style | [#32](https://github.com/activecourses/upwork-clone-frontend/pull/32) | ![Static Badge](https://img.shields.io/badge/Merged-8957e5) |
 
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
