@@ -20,6 +20,7 @@
 
 <span>[<kbd> <br> About <br> </kbd>](#about)</span>
 <span>[<kbd> <br> Internships <br> </kbd>](#internship-experience)</span>
+<span>[<kbd> <br> Open Source <br> </kbd>](#training-experience)</span>
 <span>[<kbd> <br> Training <br> </kbd>](#training-experience)</span>
 <span>[<kbd> <br> Volunteering <br> </kbd>](#volunteering-experience)</span>
 <span>[<kbd> <br> Socials <br> </kbd>](#social-media)</span>
@@ -79,6 +80,21 @@
 | [Nokia](https://www.nokia.com/) | Software Engineer Intern | Aug 2023 - Oct 2023 |
 | [Banque Misr](https://www.banquemisr.com/) | Frontend Developer Intern | Jul 2023 - Aug 2023 |
 
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
+<h2><a id="open-source"></a>🤝 Open Source Contributions</h2>
+
+| 📂 Repository | 💡 Contribution | 🔗 PR | 📊 Status |
+| --- | --- | --- | --- |
+| [Django](https://github.com/django/django) | Deprecated HTTP as default protocol in urlize | [#19240](https://github.com/django/django/pull/19240) | Merged |
+| ↳ | Fixed contenttypes shortcut() view crash with invalid UUID | [#19296](https://github.com/django/django/pull/19296) | Merged |
+| ↳ | Added docs for testing callable storage in FileField | [#19349](https://github.com/django/django/pull/19349) | Open |
+| ↳ | Updated docs on gettext f-string support limitations | [#19348](https://github.com/django/django/pull/19348) | Open |
+| ↳ | Added support for translating unnamed URL paths | [#19327](https://github.com/django/django/pull/19327) | Open |
+| ↳ | Ensured RelatedFieldWidgetWrapper uses correct renderer | [#19271](https://github.com/django/django/pull/19271) | Open |
+| ↳ | Optimized no-op migration performance on SQLite | [#19278](https://github.com/django/django/pull/19278) | Open |
+| [Upwork Clone Frontend](https://github.com/activecourses/upwork-clone-frontend) | Set up Husky pre-commit hooks | [#31](https://github.com/activecourses/upwork-clone-frontend/pull/31) | Merged |
+| ↳ | Fixed props validation, line endings, and formatting | [#32](https://github.com/activecourses/upwork-clone-frontend/pull/32) | Merged |
 
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
@@ -94,11 +110,7 @@
 | ↳ | Full Stack Web Development using Python Trainee | Jul 2024 - Aug 2024 | [Certificate](certificates/training/iti-python.pdf) |
 | [Coach Academy](https://coachacademy.club/) | Competitive Programming Trainee | Nov 2023 - April 2024 | [Certificate](certificates/training/coach-academy.pdf) |
 
-
-
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-
-
 
 <h2><a id="volunteering-experience"></a>🤝 Volunteering Experience</h2>
 
