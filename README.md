@@ -20,7 +20,7 @@
 
 <span>[<kbd> <br> About <br> </kbd>](#about)</span>
 <span>[<kbd> <br> Internships <br> </kbd>](#internship-experience)</span>
-<span>[<kbd> <br> Open Source <br> </kbd>](#training-experience)</span>
+<span>[<kbd> <br> Open Source <br> </kbd>](#open-source)</span>
 <span>[<kbd> <br> Training <br> </kbd>](#training-experience)</span>
 <span>[<kbd> <br> Volunteering <br> </kbd>](#volunteering-experience)</span>
 <span>[<kbd> <br> Socials <br> </kbd>](#social-media)</span>
