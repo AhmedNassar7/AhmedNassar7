@@ -42,7 +42,7 @@
 
 <img align="right" width="370" height="320" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-- 👨‍🎓 I’m a `Senior Computer Science Student`.
+- 👨‍🎓 I’m a `Software Engineer`.
   
 - 🚀 Passionate about `Web Development`.
 
@@ -52,9 +52,9 @@
 
 - 🎯 Focus on `Quality` over `Quantity`
   
-- 🔍 Seeking an `Internship` or a `Part-Time Job`.
+- 🔍 Seeking an `Internship` or a `Job`.
 
-- 🔄 Repeat `Brainstorming`, `Coding`, `Debugging` 
+- 🔄 Repeat `Brainstorming`, `Coding`, and `Debugging`.
 
 - 📄 Know more about my experiences in my **[Resume](https://drive.google.com/file/d/1AZ9sVmv92Bqf_8hZIC49jYnkNMwwdTUv/view?usp=sharing)**.
 
