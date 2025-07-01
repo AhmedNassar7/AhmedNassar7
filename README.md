@@ -3,7 +3,7 @@
 <h1 id="top" align="center">Hi, I'm Ahmed Nassar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=27&pause=1000&color=15BDDC&center=true&vCenter=true&width=435&lines=Software+Engineer;Django+Individual+Member;Community+Builder" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=27&pause=1000&color=15BDDC&center=true&vCenter=true&width=435&lines=Software+Engineer;DSF+Member;Community+Builder" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -12,6 +12,22 @@
   <img src="https://img.shields.io/github/stars/ahmednassar7?color=0e75b6&style=flat-square" alt="Stars" height="21" />
   <img src="https://img.shields.io/github/forks/AhmedNassar7/Software-Engineering?label=Forks&color=0e75b6&style=flat-square" alt="Forks" height="21" />
 </p>
+
+<div align="center">
+
+<!-- ![Django Fellow](https://img.shields.io/badge/Django-Fellow-092E20?style=for-the-badge&logo=django&logoColor=white) -->
+[![DSF Member](https://img.shields.io/badge/DSF-Member-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/foundation/individual-members/)
+
+</div>
+
+<!--
+<div align="center">
+
+![Django](https://img.shields.io/badge/Django-Expert-092E20?style=flat&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat&logo=python&logoColor=white)
+-->
+
+</div>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmednassar7&theme=darkhub&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1&column=7" alt="ahmednassar7" /></a> </p>
 
@@ -42,7 +58,7 @@
 
 <img align="right" width="370" height="320" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-- 👨‍🎓 I’m a `Software Engineer`.
+- ⭐ I’m a `Software Engineer`, [**`DSF Member`**](https://www.djangoproject.com/foundation/individual-members/), and `Community Builder`.
   
 - 🚀 Passionate about `Web Development`.
 
