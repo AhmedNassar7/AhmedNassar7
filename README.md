@@ -114,15 +114,14 @@
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 
-
 <h2><a id="training-experience"></a>📚 Training Experience</h2>
 
 | 🏢 Organization | 💼 Role | ⏰ Duration | 📄 Certificate |
 | --- | --- | --- | --- |
 | [Information Technology Institute](https://iti.gov.eg/home) | Frontend using React Trainee | Sep 2024 - Sep 2024 | [Certificate](certificates/training/iti-react.pdf) |
-| ↳ | Web Development Trainee | Aug 2024 - Sep 2024 | [Certificate](certificates/training/iti-web-development.pdf) |
+| ↳ | Web Fundamentals Trainee | Aug 2024 - Sep 2024 | [Certificate](certificates/training/iti-web-development.pdf) |
 | ↳ | Full Stack Web Development using Python Trainee | Jul 2024 - Aug 2024 | [Certificate](certificates/training/iti-python.pdf) |
-| [Coach Academy](https://coachacademy.club/) | Competitive Programming Trainee | Nov 2023 - April 2024 | [Certificate](certificates/training/coach-academy.pdf) |
+| [Coach Academy](https://coachacademy.club/) | Competitive Programming II Trainee | Nov 2023 - April 2024 | [Certificate](certificates/training/coach-academy.pdf) |
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
@@ -138,7 +137,7 @@
 | [SemiColon](https://www.linkedin.com/company/semicolon.org/) | Data Structure & Algorithms Head | [Core Team](certificates/others/core-team-semicolon.jpeg) |
 | [Enactus Modern Academy](https://www.linkedin.com/company/enactus-modern-academy/) | IT Member | [Acceptance](certificates/others/acceptance-enactus.jpeg) |
 | [GDSC Modern Academy](https://www.linkedin.com/company/gdg-campus-modern-academy-for-computer-science/) | Event Manager Member | [Certificate](certificates/volunteering/gdsc-ma.jpg) |
-| [Techne](https://www.linkedin.com/company/techne.me/) | Event Organizer | [Certificate 2023](certificates/volunteering/techne'23.pdf) \| [Certificate 2024](certificates/volunteering/techne'24.pdf) |
+| [Techne](https://www.linkedin.com/company/techne.me/) | Event Organizer | [Certificate 2023](certificates/volunteering/techne-23.jpg) \| [Certificate 2024](certificates/volunteering/techne-24.pdf) |
 | [Egypt Career Summit](https://www.linkedin.com/company/egypt-career-summit/) | Event Organizer | [Certificate](certificates/volunteering/ecs.png) |
 | [iCareer](https://www.linkedin.com/company/icareereg/) | Event Organizer | [Core Team](certificates/others/core-team-icareer.jpeg) |
 | [Startups Without Borders](https://www.linkedin.com/company/startups-without-borders-eg/) | Event Organizer | [Acceptance](certificates/others/acceptance-swb.jpeg) |
