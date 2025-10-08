@@ -164,9 +164,11 @@
 &nbsp;
 <a href="https://discord.com/users/1004903939415752834" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/discord/discord.svg" alt="Discord" height="40" width="40" /></a>
 &nbsp;
+<a href="https://codeforces.com/profile/AhmedNassar7" target="_blank"><img align="center" src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/technology/codeforces/codeforces.svg" alt="Codeforces" height="40" width="35" /></a>
+&nbsp;
 <a href="https://www.hackerrank.com/a_moh_nassar00" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HacherRank" height="40" width="35" /></a>
 &nbsp;
-<a href="https://www.leetcode.com/nasssar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="40" width="35" /></a>
+<a href="https://www.leetcode.com/nasssar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="38" width="35" /></a>
 
 
 
