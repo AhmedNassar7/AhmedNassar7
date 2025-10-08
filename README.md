@@ -250,6 +250,8 @@
 
 <a href="https://git.io/streak-stats"><img align="center" width="1000" height="180" src="https://streak-stats.demolab.com?user=ahmednassar7&theme=highcontrast" alt="GitHub Streak" /></a>
 
+<img width="550px" src="https://github-contributor-stats.vercel.app/api?username=ahmednassar7&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true">
+
 </div>
 
 
