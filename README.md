@@ -6,17 +6,32 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=27&pause=1000&color=15BDDC&center=true&vCenter=true&width=435&lines=Software+Engineer;DSF+Member;Community+Builder" alt="Typing SVG" /></a>
 </p>
 
+<div align="center">
+
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmednassar7&label=Profile%20views&color=0e75b6&style=flat-square" alt="Views" height="21" /> 
+  <img src="https://komarev.com/ghpvc/?username=ahmednassar7&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" height="21" /> 
   <img src="https://img.shields.io/github/followers/ahmednassar7?label=Followers&color=0e75b6&style=flat-square" alt="Followers" height="21" width="100" />
   <img src="https://img.shields.io/github/stars/ahmednassar7?color=0e75b6&style=flat-square" alt="Stars" height="21" />
   <img src="https://img.shields.io/github/forks/AhmedNassar7/Software-Engineering?label=Forks&color=0e75b6&style=flat-square" alt="Forks" height="21" />
+	<!--
+	<a href="https://user-badge.committers.top/egypt/AhmedNassar7">
+  <img src="https://img.shields.io/badge/Top Committers in Egypt - %2342-0e75b6?style=flat-square" alt="Committers.top Egypt Rank 42" height="21" />
+    </a>
+	-->
 </p>
+
 
 <div align="center">
 
-<!-- ![Django Fellow](https://img.shields.io/badge/Django-Fellow-092E20?style=for-the-badge&logo=django&logoColor=white) -->
+<!-- 
+![Django Fellow](https://img.shields.io/badge/Django-Fellow-092E20?style=for-the-badge&logo=django&logoColor=white)
+[![committers.top badge](https://user-badge.committers.top/egypt/AhmedNassar7.svg)](https://user-badge.committers.top/egypt/AhmedNassar7)
+-->
 [![DSF Member](https://img.shields.io/badge/DSF-Member-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/foundation/individual-members/)
+<a href="https://user-badge.committers.top/egypt/AhmedNassar7">
+  <img src="https://img.shields.io/badge/Top%20Committer%20in%20Egypt-%20%2345-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Committers.top Egypt Rank 45" />
+</a>
 
 </div>
 
@@ -58,7 +73,7 @@
 
 <img align="right" width="370" height="320" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-- ⭐ I’m a `Software Engineer`, [**`DSF Member`**](https://www.djangoproject.com/foundation/individual-members/), and `Community Builder`.
+- ⭐ I’m a `Software Engineer`, [**`DSF Member`**](https://www.djangoproject.com/foundation/individual-members/), and [**`Community Builder`**](https://github.com/AhmedNassar7/Software-Engineering).
   
 - 🚀 Passionate about `Web Development`.
 
