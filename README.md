@@ -12,13 +12,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmednassar7&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" height="21" /> 
   <img src="https://img.shields.io/github/followers/ahmednassar7?label=Followers&color=0e75b6&style=flat-square" alt="Followers" height="21" width="100" />
-  <img src="https://img.shields.io/github/stars/ahmednassar7?color=0e75b6&style=flat-square" alt="Stars" height="21" />
+  <img src="https://img.shields.io/github/stars/ahmednassar7?label=Stars&color=0e75b6&style=flat-square" alt="Stars" height="21" />
   <img src="https://img.shields.io/github/forks/AhmedNassar7/Software-Engineering?label=Forks&color=0e75b6&style=flat-square" alt="Forks" height="21" />
-	<!--
-	<a href="https://user-badge.committers.top/egypt/AhmedNassar7">
-  <img src="https://img.shields.io/badge/Top Committers in Egypt - %2342-0e75b6?style=flat-square" alt="Committers.top Egypt Rank 42" height="21" />
-    </a>
-	-->
+  <img src="https://img.shields.io/github/watchers/AhmedNassar7/Software-Engineering?label=Watchers&style=flat-square&color=0e75b6" alt="Watchers" height="21" />
 </p>
 
 
