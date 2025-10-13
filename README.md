@@ -26,7 +26,7 @@
 -->
 [![DSF Member](https://img.shields.io/badge/DSF-Member-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/foundation/individual-members/)
 <a href="https://user-badge.committers.top/egypt/AhmedNassar7">
-  <img src="https://img.shields.io/badge/Top%20Committer%20in%20Egypt-%20%2345-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Committers.top Egypt Rank 45" />
+  <img src="https://img.shields.io/badge/Top%20Committer%20in%20Egypt-%20%2344-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Committers.top Egypt Rank 45" />
 </a>
 
 </div>
