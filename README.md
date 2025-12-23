@@ -45,6 +45,7 @@
 <div align="center">
 
 <span>[<kbd> <br> About <br> </kbd>](#about)</span>
+<span>[<kbd> <br> Experience <br> </kbd>](#work-experience)</span>
 <span>[<kbd> <br> Internships <br> </kbd>](#internship-experience)</span>
 <span>[<kbd> <br> Open Source <br> </kbd>](#open-source)</span>
 <span>[<kbd> <br> Training <br> </kbd>](#training-experience)</span>
@@ -96,11 +97,23 @@
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 
+<h2><a id="work-experience"></a>💼 Work Experience</h2>
+
+| 🏢 Company | 💼 Role |
+| --- | --- |
+| [Mercor](https://www.mercor.com/) | Software Engineer |
+| [Datacurve](https://datacurve.ai/) | Open Source Developer |
+| [Django](https://www.djangoproject.com/) | Member & Open Source Contributor |
+| [Beshara](https://ebeshara.com/) | Java Developer |
+
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
 
 <h2><a id="internship-experience"></a>💼 Internship Experience</h2>
 
 | 🏢 Company | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
+| [Deloitte](https://www.deloitte.com/middle-east/en.html) | MIH Program | Oct 2025 - Nov 2025 |
 | [Orange Digital Center](https://www.orangedigitalcenters.com/country/EG/home) | Software Engineer Intern | Sep 2024 - Oct 2024 |
 | [Arab African International Bank](https://www.aaib.com/) | Backend Developer Intern | Jul 2024 - Aug 2024 | 
 | [Nokia](https://www.nokia.com/) | Software Engineer Intern | Aug 2023 - Oct 2023 |
