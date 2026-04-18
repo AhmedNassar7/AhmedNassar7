@@ -222,6 +222,17 @@
 </p>
 -->
 
+<div align="center">
+  <img src="skills/python.svg" alt="Python" width="50" height="50" />
+  <img src="skills/django.svg" alt="Django" width="50" height="50" />
+  <img src="skills/react.svg" alt="React" width="50" height="50" />
+  <img src="skills/javascript.svg" alt="JavaScript" width="50" height="50" />
+  <img src="skills/typescript.svg" alt="TypeScript" width="50" height="50" />
+  <img src="skills/github.svg" alt="GitHub" width="50" height="50" />
+  <img src="skills/mysql.svg" alt="MySQL" width="50" height="50" />
+  <img src="skills/docker.svg" alt="Docker" width="50" height="50" />
+</div>
+
 <h3>
   <a id="programming-languages"></a>
   <picture style="display: inline;">
