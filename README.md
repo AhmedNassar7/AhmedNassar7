@@ -51,7 +51,7 @@
 <span>[<kbd> <br> Training <br> </kbd>](#training-experience)</span>
 <span>[<kbd> <br> Volunteering <br> </kbd>](#volunteering-experience)</span>
 <span>[<kbd> <br> Socials <br> </kbd>](#social-media)</span>
-<br>
+<br> <br>
 <span>[<kbd> <br> Skills <br> </kbd>](#technical-skills)</span>
 <span>[<kbd> <br> Stats <br> </kbd>](#github-stats)</span>
 <span>[<kbd> <br> Snake <br> </kbd>](#snake)</span>
