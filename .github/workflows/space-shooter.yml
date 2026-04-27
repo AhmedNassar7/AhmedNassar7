@@ -1,0 +1,32 @@
+name: Space Shooter
+
+on:
+  schedule:
+    - cron: "0 4 * * *"   # 04:00 UTC = 06:00 AM Egypt time
+                           
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-game:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate space shooter GIF
+        uses: czl9707/gh-space-shooter@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          output-path: "assets/space_shooter.gif"
+          strategy: "random"
+
+      - name: Commit GIF
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "assets/space_shooter.gif"
+          message: "chore: update space shooter gif"
+          default_author: github_actions

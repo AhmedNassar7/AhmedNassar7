@@ -54,6 +54,8 @@
 <span>[<kbd> <br> Skills <br> </kbd>](#technical-skills)</span>
 <span>[<kbd> <br> Stats <br> </kbd>](#github-stats)</span>
 <span>[<kbd> <br> Snake <br> </kbd>](#snake)</span>
+<span>[<kbd> <br> Metrics <br> </kbd>](#metrics)</span>
+<span>[<kbd> <br> Game <br> </kbd>](#game)</span>
 <span>[<kbd> <br> Graph <br> </kbd>](#graph)</span>
 
 </div>
@@ -297,6 +299,40 @@
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
+
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
+<h2><a id="metrics"></a><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> GitHub Metrics</h2>
+ 
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="./assets/metrics.plugin.overview.svg" width="100%">
+    </td>
+    <td valign="top" width="50%">
+      <img src="./assets/metrics.plugin.isocalendar.fullyear.svg" width="100%">
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="./assets/metrics.plugin.introduction.svg" width="100%">
+    </td>
+    <td valign="top" width="50%">
+      <img src="./assets/metrics.plugin.stargazers.svg" width="100%">
+    </td>
+  </tr>
+</table>
+<img src="./assets/metrics.plugin.achievements.svg" width="100%">
+
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
+<h2><a id="game"></a>🎮 My GitHub Space Shooter Game</h2>
+ 
+<p align="center">
+  <img src="./assets/space_shooter.gif" alt="My GitHub Space Shooter Game" width="100%">
+</p>
 
 
 <h2><a id="snake"></a> 🐍 Snake Eating My Contributions</h2>  
