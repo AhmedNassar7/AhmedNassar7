@@ -54,8 +54,8 @@
 <span>[<kbd> <br> Skills <br> </kbd>](#technical-skills)</span>
 <span>[<kbd> <br> Stats <br> </kbd>](#github-stats)</span>
 <span>[<kbd> <br> Snake <br> </kbd>](#snake)</span>
-<span>[<kbd> <br> Metrics <br> </kbd>](#metrics)</span>
-<span>[<kbd> <br> Game <br> </kbd>](#game)</span>
+<span>[<kbd> <br> Metrics <br> </kbd>](#metrics)</span>
+<span>[<kbd> <br> Game <br> </kbd>](#game)</span>
 <span>[<kbd> <br> Graph <br> </kbd>](#graph)</span>
 
 </div>
