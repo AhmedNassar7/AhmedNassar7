@@ -313,7 +313,7 @@
     </td>
   </tr>
 </table>
-<img src="./assets/metrics.plugin.achievements.svg" width="100%">
+<!-- <img src="./assets/metrics.plugin.achievements.svg" width="100%"> -->
 
 <!-- <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" /> -->
 
