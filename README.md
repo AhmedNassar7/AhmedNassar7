@@ -45,19 +45,11 @@
 <div align="center">
 
 <span>[<kbd> <br> About <br> </kbd>](#about)</span>
-<span>[<kbd> <br> Experience <br> </kbd>](#work-experience)</span>
-<span>[<kbd> <br> Internships <br> </kbd>](#internship-experience)</span>
-<span>[<kbd> <br> Open Source <br> </kbd>](#open-source)</span>
-<span>[<kbd> <br> Training <br> </kbd>](#training-experience)</span>
-<span>[<kbd> <br> Volunteering <br> </kbd>](#volunteering-experience)</span>
 <span>[<kbd> <br> Socials <br> </kbd>](#social-media)</span>
-<br> <br>
 <span>[<kbd> <br> Skills <br> </kbd>](#technical-skills)</span>
-<span>[<kbd> <br> Stats <br> </kbd>](#github-stats)</span>
 <span>[<kbd> <br> Snake <br> </kbd>](#snake)</span>
 <span>[<kbd> <br> Metrics <br> </kbd>](#metrics)</span>
 <span>[<kbd> <br> Game <br> </kbd>](#game)</span>
-<span>[<kbd> <br> Graph <br> </kbd>](#graph)</span>
 
 </div>
 
@@ -107,7 +99,7 @@
   <img width="900" height="200" alt="Mario" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif">
 </div>
 
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+<!-- <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 
 <h2><a id="work-experience"></a>💼 Work Experience</h2>
@@ -184,7 +176,7 @@
 
 
 
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" /> -->
 
 
 <h2><a id="social-media"></a><img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="30"> Social Media</h2>
@@ -276,7 +268,7 @@
 </a>
 
 
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+<!-- <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 
 
@@ -295,11 +287,7 @@
 
 <img width="550px" src="https://github-contributor-stats.vercel.app/api?username=ahmednassar7&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true">
 
-</div>
-
-
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-
+</div> -->
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
@@ -347,12 +335,12 @@
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
-<h2><a id="graph"></a>📈 Contributions Graph</h2>  
+<!-- <h2><a id="graph"></a>📈 Contributions Graph</h2>  
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmedNassar7&bg_color=000000&color=ffffff&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" /> -->
 
 <h2>:book: Guest Book</h2>
 
