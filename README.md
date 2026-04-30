@@ -46,10 +46,10 @@
 
 <span>[<kbd> <br> About <br> </kbd>](#about)</span>
 <span>[<kbd> <br> Socials <br> </kbd>](#social-media)</span>
-<span>[<kbd> <br> Skills <br> </kbd>](#technical-skills)</span>
-<span>[<kbd> <br> Snake <br> </kbd>](#snake)</span>
+<span>[<kbd> <br> Skills <br> </kbd>](#skills)</span>
 <span>[<kbd> <br> Metrics <br> </kbd>](#metrics)</span>
 <span>[<kbd> <br> Game <br> </kbd>](#game)</span>
+<span>[<kbd> <br> Snake <br> </kbd>](#snake)</span>
 
 </div>
 
@@ -207,7 +207,7 @@
 
 
 
-<h2><a id="technical-skills"></a><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Technical Skills</h2>
+<h2><a id="skills"></a><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Technical Skills</h2>
 
 <!--
 <p align="center">
