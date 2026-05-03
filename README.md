@@ -313,7 +313,19 @@
     </td>
   </tr>
 </table>
-<!-- <img src="./assets/metrics.plugin.achievements.svg" width="100%"> -->
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="./assets/metrics.plugin.wakatime.svg" width="100%">
+    </td>
+    <td valign="top" width="50%">
+      <img src="./assets/metrics.plugin.achievements.svg" width="100%">
+    </td>
+  </tr>
+</table>
+
+<p align="center"> <a href="https://github.com/AhmedNassar7?tab=repositories"><img src="https://github-profile-trophy-ahmed.vercel.app/?username=AhmedNassar7&theme=onedark&no-bg=true&no-frame=true&column=-1" alt="AhmedNassar7" /></a> </p>
 
 <!-- <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" /> -->
 
