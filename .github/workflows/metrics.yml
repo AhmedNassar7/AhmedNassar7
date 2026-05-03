@@ -10,6 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    env:
+      WAKATIME_TOKEN: ${{ secrets.WAKATIME_TOKEN }}
 
     steps:
       - name: Overview
@@ -65,7 +67,7 @@ jobs:
           filename: assets/metrics.plugin.achievements.svg
 
       - name: WakaTime
-        if: ${{ secrets.WAKATIME_TOKEN != '' }}
+        if: ${{ env.WAKATIME_TOKEN != '' }}
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -75,5 +77,5 @@ jobs:
           plugin_wakatime_sections: >-
             time, projects, projects-graphs, languages, languages-graphs,
             editors, os
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_token: ${{ env.WAKATIME_TOKEN }}
           filename: assets/metrics.plugin.wakatime.svg
