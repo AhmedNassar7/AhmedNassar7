@@ -61,9 +61,9 @@ jobs:
           base: ""
           plugin_achievements: yes
           plugin_achievements_threshold: B
-          plugin_achievements_secrets: no
+          plugin_achievements_secrets: yes
           plugin_achievements_display: detailed
-          plugin_achievements_limit: 0
+          plugin_achievements_limit: 10
           filename: assets/metrics.plugin.achievements.svg
 
       - name: WakaTime
