@@ -47,7 +47,7 @@
 <span>[<kbd> <br> About <br> </kbd>](#about)</span>
 <span>[<kbd> <br> Socials <br> </kbd>](#social-media)</span>
 <span>[<kbd> <br> Skills <br> </kbd>](#skills)</span>
-<span>[<kbd> <br> States <br> </kbd>](#states)</span>
+<span>[<kbd> <br> Stats <br> </kbd>](#stats)</span>
 <span>[<kbd> <br> Metrics <br> </kbd>](#metrics)</span>
 <span>[<kbd> <br> Shooter <br> </kbd>](#shooter)</span>
 <span>[<kbd> <br> Snake <br> </kbd>](#snake)</span>
@@ -274,7 +274,7 @@
 
 
 
-<h2><a id="states"></a><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Github Stats</h2>
+<h2><a id="stats"></a><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Github Stats</h2>
 <div align="center">
 	
 ![](https://github-readme-stats.shion.dev/api?username=AhmedNassar7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
