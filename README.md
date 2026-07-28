@@ -274,7 +274,7 @@
 
 
 
-<h2><a id="stats"></a><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Github Stats</h2>
+<h2><a id="states"></a><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Github Stats</h2>
 <div align="center">
 	
 ![](https://github-readme-stats.shion.dev/api?username=AhmedNassar7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
