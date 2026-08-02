@@ -58,25 +58,25 @@
 <div align="center">
 
 <span>
-  <a href="https://www.linkedin.com/in/nasssar/" target="_blank">
+  <a href="https://www.linkedin.com/in/nasssar/" target="_blank" style="text-decoration:none;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" />
   </a>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-  <a href="https://ahmednassar7.github.io/" target="_blank">
+  <a href="https://ahmednassar7.github.io/" target="_blank" style="text-decoration:none;">
     <img src="logo.png" height="40" />
   </a>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-  <a href="https://ahmednassar7.github.io/toolkit/" target="_blank">
+  <a href="https://ahmednassar7.github.io/toolkit/" target="_blank" style="text-decoration:none;">
     <img src="https://raw.githubusercontent.com/AhmedNassar7/toolkit/main/public/favicon.svg" alt="PDFTools (toolkit)" height="40" />
   </a>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-  <a href="https://ahmednassar7.github.io/horizon/" target="_blank">
+  <a href="https://ahmednassar7.github.io/horizon/" target="_blank" style="text-decoration:none;">
     <img src="https://raw.githubusercontent.com/AhmedNassar7/horizon/main/public/favicon.svg" alt="Horizon" height="40" />
   </a>
 </span>
@@ -86,7 +86,7 @@
 &nbsp;
 
 <p align="center">
-  <a href="https://github.com/sponsors/AhmedNassar7" target="_blank">
+  <a href="https://github.com/sponsors/AhmedNassar7" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-db61a2?style=for-the-badge&logo=GitHub-Sponsors&logoColor=white" alt="Sponsor AhmedNassar7" />
   </a>
 </p>
