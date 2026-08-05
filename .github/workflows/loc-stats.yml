@@ -1,0 +1,51 @@
+name: LOC Stats
+
+on:
+  push:
+    branches: ["main"]
+  schedule:
+    - cron: "0 5 * * *"   # 05:00 UTC = 07:00 AM Egypt time
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Configure pip cache
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('cache/requirements.txt') }}
+          restore-keys: ${{ runner.os }}-pip-
+
+      - name: Install dependencies
+        run: python -m pip install -r cache/requirements.txt
+
+      - name: Update stats card
+        env:
+          ACCESS_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          USER_NAME: AhmedNassar7
+        run: python today.py
+
+      - name: Commit
+        run: |-
+          git add assets/dark_mode.svg assets/light_mode.svg cache/
+          git diff --staged --quiet || (
+            git config --global user.email "github-actions[bot]@users.noreply.github.com"
+            git config --global user.name "github-actions[bot]"
+            git commit -m "Update LOC stats card"
+            git push
+          )

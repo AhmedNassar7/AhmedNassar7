@@ -45,6 +45,7 @@
 <div align="center">
 
 <span>[<kbd> <br> About <br> </kbd>](#about)</span>
+<span>[<kbd> <br> At a Glance <br> </kbd>](#at-a-glance)</span>
 <span>[<kbd> <br> Socials <br> </kbd>](#social-media)</span>
 <span>[<kbd> <br> Skills <br> </kbd>](#skills)</span>
 <span>[<kbd> <br> Stats <br> </kbd>](#stats)</span>
@@ -119,6 +120,18 @@
 
 <div align="center">
   <img width="900" height="200" alt="Mario" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif">
+</div>
+
+<h2><a id="at-a-glance"></a>🖥️ At a Glance</h2>
+<div align="center">
+
+<a href="https://github.com/AhmedNassar7/AhmedNassar7">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/dark_mode.svg">
+    <img alt="Ahmed Nassar's GitHub stats" src="./assets/light_mode.svg">
+  </picture>
+</a>
+
 </div>
 
 <!-- <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
@@ -296,7 +309,7 @@
 
 <h2><a id="stats"></a><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Github Stats</h2>
 <div align="center">
-	
+
 ![](https://github-readme-stats.shion.dev/api?username=AhmedNassar7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=AhmedNassar7&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AhmedNassar7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
