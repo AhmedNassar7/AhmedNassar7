@@ -17,7 +17,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 1
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -42,10 +42,15 @@ jobs:
 
       - name: Commit
         run: |-
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
           git add assets/dark_mode.svg assets/light_mode.svg cache/
-          git diff --staged --quiet || (
-            git config --global user.email "github-actions[bot]@users.noreply.github.com"
-            git config --global user.name "github-actions[bot]"
-            git commit -m "Update LOC stats card"
-            git push
-          )
+          git diff --staged --quiet && exit 0
+          git commit -m "Update LOC stats card"
+          for i in 1 2 3 4 5; do
+            git push && exit 0
+            git fetch origin main
+            git rebase origin/main
+            sleep $((RANDOM % 10 + 1))
+          done
+          exit 1
