@@ -45,11 +45,11 @@
 <div align="center">
 
 <span>[<kbd> <br> About <br> </kbd>](#about)</span>
-<span>[<kbd> <br> At a Glance <br> </kbd>](#at-a-glance)</span>
 <span>[<kbd> <br> Socials <br> </kbd>](#social-media)</span>
 <span>[<kbd> <br> Skills <br> </kbd>](#skills)</span>
 <span>[<kbd> <br> Stats <br> </kbd>](#stats)</span>
 <span>[<kbd> <br> Metrics <br> </kbd>](#metrics)</span>
+<span>[<kbd> <br> Snapshot <br> </kbd>](#snapshot)</span>
 <span>[<kbd> <br> Shooter <br> </kbd>](#shooter)</span>
 <span>[<kbd> <br> Snake <br> </kbd>](#snake)</span>
 <span>[<kbd> <br> Graph <br> </kbd>](#graph)</span>
@@ -343,7 +343,7 @@
 
 <p align="center"> <a href="https://github.com/AhmedNassar7?tab=repositories"><img src="https://github-profile-trophy-ahmed.vercel.app/?username=AhmedNassar7&theme=onedark&no-bg=true&no-frame=true&column=-1" alt="AhmedNassar7" /></a> </p>
 
-<h2><a id="at-a-glance"></a>🖥️ At a Glance</h2>
+<h2><a id="snapshot"></a>Snapshot</h2>
 <div align="center">
 
 <a href="https://github.com/AhmedNassar7/AhmedNassar7">
