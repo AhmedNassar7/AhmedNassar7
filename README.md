@@ -122,18 +122,6 @@
   <img width="900" height="200" alt="Mario" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif">
 </div>
 
-<h2><a id="at-a-glance"></a>🖥️ At a Glance</h2>
-<div align="center">
-
-<a href="https://github.com/AhmedNassar7/AhmedNassar7">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/dark_mode.svg">
-    <img alt="Ahmed Nassar's GitHub stats" src="./assets/light_mode.svg">
-  </picture>
-</a>
-
-</div>
-
 <!-- <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 
@@ -355,6 +343,18 @@
 
 <p align="center"> <a href="https://github.com/AhmedNassar7?tab=repositories"><img src="https://github-profile-trophy-ahmed.vercel.app/?username=AhmedNassar7&theme=onedark&no-bg=true&no-frame=true&column=-1" alt="AhmedNassar7" /></a> </p>
 
+<h2><a id="at-a-glance"></a>🖥️ At a Glance</h2>
+<div align="center">
+
+<a href="https://github.com/AhmedNassar7/AhmedNassar7">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/dark_mode.svg">
+    <img alt="Ahmed Nassar's GitHub stats" src="./assets/light_mode.svg">
+  </picture>
+</a>
+
+</div>
+
 <!-- <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" /> -->
 
 <h2><a id="shooter"></a>✈️ GitHub Space Shooter</h2>
@@ -379,7 +379,7 @@
 
 <h2><a id="graph"></a>📈 Contributions Graph</h2>  
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmedNassar7&bg_color=000000&color=ffffff&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ahmed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmednassar7&theme=github-compact&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!-- <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" /> -->
