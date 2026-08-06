@@ -11,7 +11,7 @@ import hashlib
 # Repository permissions: read:Commit statuses, read:Contents, read:Issues, read:Metadata, read:Pull Requests
 HEADERS = {'authorization': 'token '+ os.environ['ACCESS_TOKEN']}
 USER_NAME = os.environ['USER_NAME'] # 'AhmedNassar7'
-QUERY_COUNT = {'user_getter': 0, 'follower_getter': 0, 'graph_repos_stars': 0, 'recursive_loc': 0, 'graph_commits': 0, 'loc_query': 0, 'pull_requests_counter': 0}
+QUERY_COUNT = {'user_getter': 0, 'follower_getter': 0, 'graph_repos_stars': 0, 'recursive_loc': 0, 'graph_commits': 0, 'loc_query': 0, 'pull_requests_counter': 0, 'merged_pull_requests_counter': 0}
 
 
 def daily_readme(birthday):
@@ -296,7 +296,7 @@ def stars_counter(data):
     return total_stars
 
 
-def svg_overwrite(filename, age_data, commit_data, star_data, repo_data, contrib_data, follower_data, pr_data, loc_data):
+def svg_overwrite(filename, age_data, commit_data, star_data, repo_data, contrib_data, follower_data, pr_data, merged_pr_data, loc_data):
     """
     Parse SVG files and update elements with my age, commits, stars, repositories, pull requests, and lines written
     """
@@ -309,6 +309,7 @@ def svg_overwrite(filename, age_data, commit_data, star_data, repo_data, contrib
     justify_format(root, 'contrib_data', contrib_data)
     justify_format(root, 'follower_data', follower_data, 10)
     justify_format(root, 'pr_data', pr_data, 8)
+    justify_format(root, 'merged_pr_data', merged_pr_data)
     justify_format(root, 'loc_data', loc_data[2], 9)
     justify_format(root, 'loc_add', loc_data[0])
     justify_format(root, 'loc_del', loc_data[1], 7)
@@ -388,6 +389,22 @@ def pull_requests_counter(username):
     return int(request.json()['data']['search']['issueCount'])
 
 
+def merged_pull_requests_counter(username):
+    """
+    Uses GitHub's search API (via GraphQL) to count merged pull requests authored by the user
+    """
+    query_count('merged_pull_requests_counter')
+    query = '''
+    query($search_query: String!) {
+        search(query: $search_query, type: ISSUE) {
+            issueCount
+        }
+    }'''
+    variables = {'search_query': f'author:{username} is:pr is:merged'}
+    request = simple_request(merged_pull_requests_counter.__name__, query, variables)
+    return int(request.json()['data']['search']['issueCount'])
+
+
 def follower_getter(username):
     """
     Returns the number of followers of the user
@@ -451,11 +468,12 @@ if __name__ == '__main__':
     contrib_data, contrib_time = perf_counter(graph_repos_stars, 'repos', ['OWNER', 'COLLABORATOR', 'ORGANIZATION_MEMBER'])
     follower_data, follower_time = perf_counter(follower_getter, USER_NAME)
     pr_data, pr_time = perf_counter(pull_requests_counter, USER_NAME)
+    merged_pr_data, merged_pr_time = perf_counter(merged_pull_requests_counter, USER_NAME)
 
     for index in range(len(total_loc)-1): total_loc[index] = '{:,}'.format(total_loc[index]) # format added, deleted, and total LOC
 
-    svg_overwrite('assets/dark_mode.svg', age_data, commit_data, star_data, repo_data, contrib_data, follower_data, pr_data, total_loc[:-1])
-    svg_overwrite('assets/light_mode.svg', age_data, commit_data, star_data, repo_data, contrib_data, follower_data, pr_data, total_loc[:-1])
+    svg_overwrite('assets/dark_mode.svg', age_data, commit_data, star_data, repo_data, contrib_data, follower_data, pr_data, merged_pr_data, total_loc[:-1])
+    svg_overwrite('assets/light_mode.svg', age_data, commit_data, star_data, repo_data, contrib_data, follower_data, pr_data, merged_pr_data, total_loc[:-1])
 
     # move cursor to override 'Calculation times:' with 'Total function time:' and the total function time, then move cursor back
     print('\033[F\033[F\033[F\033[F\033[F\033[F\033[F\033[F',
