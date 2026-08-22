@@ -120,6 +120,16 @@
 
 - ✨ Enjoy my GitHub profile.
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
+
+</div>
+
 &nbsp;
 
 <div align="center">
@@ -392,9 +402,12 @@
 
 - Leave a message <a href="https://github.com/ahmednassar7/ahmednassar7/issues/new?template=guestbook-entry.md">Here</a>
 
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
 <p align="center"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=00526f&style=flat&logo" alt="back to top" /></a></p>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
 
 <!-- - Ask anything at <a href="https://github.com/ahmednassar7/ahmednassar7/discussions/new/choose">Discussions</a> -->
 
