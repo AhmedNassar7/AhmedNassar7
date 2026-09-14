@@ -13,6 +13,22 @@ HEADERS = {'authorization': 'token '+ os.environ['ACCESS_TOKEN']}
 USER_NAME = os.environ['USER_NAME'] # 'AhmedNassar7'
 QUERY_COUNT = {'user_getter': 0, 'follower_getter': 0, 'graph_repos_stars': 0, 'recursive_loc': 0, 'graph_commits': 0, 'loc_query': 0, 'pull_requests_counter': 0, 'merged_pull_requests_counter': 0}
 
+# GitHub's GraphQL API occasionally returns a transient 502/503/504 under load;
+# retrying a couple times with backoff avoids failing the whole run over a blip.
+RETRYABLE_STATUS_CODES = (502, 503, 504)
+
+
+def post_graphql(query, variables, max_retries=3):
+    """
+    POSTs a GraphQL query, retrying with backoff on transient gateway errors.
+    """
+    for attempt in range(max_retries):
+        request = requests.post('https://api.github.com/graphql', json={'query': query, 'variables': variables}, headers=HEADERS)
+        if request.status_code not in RETRYABLE_STATUS_CODES or attempt == max_retries - 1:
+            return request
+        time.sleep(2 ** attempt)
+    return request
+
 
 def daily_readme(birthday):
     """
@@ -43,7 +59,7 @@ def simple_request(func_name, query, variables):
     """
     Returns a request, or raises an Exception if the response does not succeed.
     """
-    request = requests.post('https://api.github.com/graphql', json={'query': query, 'variables':variables}, headers=HEADERS)
+    request = post_graphql(query, variables)
     if request.status_code == 200:
         return request
     raise Exception(func_name, ' has failed with a', request.status_code, request.text, QUERY_COUNT)
@@ -143,7 +159,7 @@ def recursive_loc(owner, repo_name, data, cache_comment, addition_total=0, delet
         }
     }'''
     variables = {'repo_name': repo_name, 'owner': owner, 'cursor': cursor}
-    request = requests.post('https://api.github.com/graphql', json={'query': query, 'variables':variables}, headers=HEADERS) # I cannot use simple_request(), because I want to save the file before raising Exception
+    request = post_graphql(query, variables) # I cannot use simple_request(), because I want to save the file before raising Exception
     if request.status_code == 200:
         if request.json()['data']['repository']['defaultBranchRef'] != None: # Only count commits if repo isn't empty
             return loc_counter_one_repo(owner, repo_name, data, cache_comment, request.json()['data']['repository']['defaultBranchRef']['target']['history'], addition_total, deletion_total, my_commits)
