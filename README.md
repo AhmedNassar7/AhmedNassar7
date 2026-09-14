@@ -25,9 +25,13 @@
 [![committers.top badge](https://user-badge.committers.top/egypt/AhmedNassar7.svg)](https://user-badge.committers.top/egypt/AhmedNassar7)
 -->
 [![DSF Member](https://img.shields.io/badge/DSF-Member-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/foundation/individual-members/)
-<a href="https://user-badge.committers.top/egypt/AhmedNassar7">
-  <img src="https://img.shields.io/badge/Top%20Committer%20in%20Egypt-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Committers.top Egypt" />
+<a href="https://user-badge.committers.top/egypt_public/AhmedNassar7">
+  <img src="https://img.shields.io/badge/Top%20Committer%20in%20Egypt-%239-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Top 17 Committer in Egypt" />
 </a>
+
+<!-- <a href="https://user-badge.committers.top/egypt/AhmedNassar7">
+  <img src="https://img.shields.io/badge/Top%20Committer%20in%20Egypt-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Committers.top Egypt" />
+</a> -->
 
 </div>
 
@@ -115,6 +119,16 @@
 - 📄 Know more about my experiences in my **[Resume](https://drive.google.com/file/d/1AZ9sVmv92Bqf_8hZIC49jYnkNMwwdTUv/view?usp=sharing)**.
 
 - ✨ Enjoy my GitHub profile.
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
+
+</div>
 
 &nbsp;
 
@@ -388,9 +402,12 @@
 
 - Leave a message <a href="https://github.com/ahmednassar7/ahmednassar7/issues/new?template=guestbook-entry.md">Here</a>
 
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
 <p align="center"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=00526f&style=flat&logo" alt="back to top" /></a></p>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
 
 <!-- - Ask anything at <a href="https://github.com/ahmednassar7/ahmednassar7/discussions/new/choose">Discussions</a> -->
 
