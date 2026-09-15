@@ -75,6 +75,12 @@
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
+  <a href="https://ahmednassar7.github.io/tracker/" target="_blank" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/AhmedNassar7/tracker/main/site/public/favicon.svg" alt="Tracker" height="40" />
+  </a>
+</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span>
   <a href="https://ahmednassar7.github.io/horizon/" target="_blank" style="text-decoration:none;">
     <img src="https://raw.githubusercontent.com/AhmedNassar7/horizon/main/public/favicon.svg" alt="Horizon" height="40" />
   </a>
@@ -83,6 +89,12 @@
 <span>
   <a href="https://ahmednassar7.github.io/toolkit/" target="_blank" style="text-decoration:none;">
     <img src="https://raw.githubusercontent.com/AhmedNassar7/toolkit/main/public/favicon.svg" alt="PDFTools (toolkit)" height="40" />
+  </a>
+</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span>
+  <a href="https://ahmednassar7.github.io/manarah/" target="_blank" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/AhmedNassar7/manarah/main/assets/logo.svg" alt="Manarah" height="40" />
   </a>
 </span>
 
