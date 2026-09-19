@@ -18,7 +18,7 @@ QUERY_COUNT = {'user_getter': 0, 'follower_getter': 0, 'graph_repos_stars': 0, '
 RETRYABLE_STATUS_CODES = (502, 503, 504)
 
 
-def post_graphql(query, variables, max_retries=3):
+def post_graphql(query, variables, max_retries=5):
     """
     POSTs a GraphQL query, retrying with backoff on transient gateway errors.
     """
@@ -26,7 +26,7 @@ def post_graphql(query, variables, max_retries=3):
         request = requests.post('https://api.github.com/graphql', json={'query': query, 'variables': variables}, headers=HEADERS)
         if request.status_code not in RETRYABLE_STATUS_CODES or attempt == max_retries - 1:
             return request
-        time.sleep(2 ** attempt)
+        time.sleep(min(2 ** attempt, 30))
     return request
 
 

@@ -35,10 +35,15 @@ jobs:
         run: python -m pip install -r cache/requirements.txt
 
       - name: Update stats card
+        uses: nick-fields/retry@v3
+        with:
+          timeout_minutes: 15
+          max_attempts: 3
+          retry_wait_seconds: 60
+          command: python today.py
         env:
           ACCESS_TOKEN: ${{ secrets.METRICS_TOKEN }}
           USER_NAME: AhmedNassar7
-        run: python today.py
 
       - name: Commit
         run: |-
