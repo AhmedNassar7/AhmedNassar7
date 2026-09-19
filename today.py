@@ -167,7 +167,7 @@ def recursive_loc(owner, repo_name, data, cache_comment, addition_total=0, delet
     force_close_file(data, cache_comment) # saves what is currently in the file before this program crashes
     if request.status_code == 403:
         raise Exception('Too many requests in a short amount of time!\nYou\'ve hit the non-documented anti-abuse limit!')
-    raise Exception('recursive_loc() has failed with a', request.status_code, request.text, QUERY_COUNT)
+    raise Exception('recursive_loc() has failed for', owner + '/' + repo_name, 'with a', request.status_code, request.text, QUERY_COUNT)
 
 
 def loc_counter_one_repo(owner, repo_name, data, cache_comment, history, addition_total, deletion_total, my_commits):
@@ -262,7 +262,16 @@ def cache_builder(edges, comment_size, force_cache, loc_add=0, loc_del=0):
                 if int(commit_count) != edges[index]['node']['defaultBranchRef']['target']['history']['totalCount']:
                     # if commit count has changed, update loc for that repo
                     owner, repo_name = edges[index]['node']['nameWithOwner'].split('/')
-                    loc = recursive_loc(owner, repo_name, data, cache_comment)
+                    try:
+                        loc = recursive_loc(owner, repo_name, data, cache_comment)
+                    except Exception as e:
+                        if 'Too many requests' in str(e):
+                            raise # anti-abuse rate limit hit: abort, retrying more repos would only make it worse
+                        # a single repo's GraphQL query keeps failing (e.g. GitHub backend timeout on a
+                        # large history) - keep its stale cached LOC and retry it on the next scheduled run
+                        # instead of failing the whole workflow over one repo.
+                        print('Warning: skipping LOC update for', owner + '/' + repo_name, 'this run:', e)
+                        continue
                     data[index] = repo_hash + ' ' + str(edges[index]['node']['defaultBranchRef']['target']['history']['totalCount']) + ' ' + str(loc[2]) + ' ' + str(loc[0]) + ' ' + str(loc[1]) + '\n'
             except TypeError: # If the repo is empty
                 data[index] = repo_hash + ' 0 0 0 0\n'
