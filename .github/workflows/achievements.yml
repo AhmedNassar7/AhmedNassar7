@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: stalomeow/metrics@projects-v2
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN || github.token }}
           user: AhmedNassar7
           template: classic
           base: ""
