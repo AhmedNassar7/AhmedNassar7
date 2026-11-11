@@ -25,12 +25,8 @@
 [![committers.top badge](https://user-badge.committers.top/egypt/AhmedNassar7.svg)](https://user-badge.committers.top/egypt/AhmedNassar7)
 -->
 [![DSF Member](https://img.shields.io/badge/DSF-Member-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/foundation/individual-members/)
-<a href="https://user-badge.committers.top/egypt_public/AhmedNassar7">
-  <img src="https://img.shields.io/badge/Top%20Contributor%20in%20Egypt-%237-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Top 17 Committer in Egypt" />
-</a>
-<a href="https://user-badge.committers.top/egypt/AhmedNassar7">
-  <img src="https://img.shields.io/badge/Top%20Committer%20in%20Egypt-%2315-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Top 17 Committer in Egypt" />
-</a>
+[![Top 7 Contributor in Egypt](https://img.shields.io/badge/Top%20Contributor%20in%20Egypt-%237-0e75b6?style=for-the-badge&logo=github&logoColor=white)](https://user-badge.committers.top/egypt_public/AhmedNassar7)
+[![Top 15 Committer in Egypt](https://img.shields.io/badge/Top%20Committer%20in%20Egypt-%2315-0e75b6?style=for-the-badge&logo=github&logoColor=white)](https://user-badge.committers.top/egypt/AhmedNassar7)
 
 <!-- <a href="https://user-badge.committers.top/egypt/AhmedNassar7">
   <img src="https://img.shields.io/badge/Top%20Committer%20in%20Egypt-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Committers.top Egypt" />
