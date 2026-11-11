@@ -61,41 +61,12 @@
 
 <div align="center">
 
-<span>
-  <a href="https://www.linkedin.com/in/nasssar/" target="_blank" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" />
-  </a>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<span>
-  <a href="https://ahmednassar7.github.io/" target="_blank" style="text-decoration:none;">
-    <img src="logo.png" height="40" />
-  </a>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<span>
-  <a href="https://ahmednassar7.github.io/tracker/" target="_blank" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/AhmedNassar7/tracker/main/site/public/favicon.svg" alt="Tracker" height="40" />
-  </a>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<span>
-  <a href="https://ahmednassar7.github.io/horizon/" target="_blank" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/AhmedNassar7/horizon/main/public/favicon.svg" alt="Horizon" height="40" />
-  </a>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<span>
-  <a href="https://ahmednassar7.github.io/toolkit/" target="_blank" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/AhmedNassar7/toolkit/main/public/favicon.svg" alt="PDFTools (toolkit)" height="40" />
-  </a>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<span>
-  <a href="https://ahmednassar7.github.io/manarah/" target="_blank" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/AhmedNassar7/manarah/main/assets/logo.svg" alt="Manarah" height="40" />
-  </a>
-</span>
+[![LinkedIn](assets/badges/linkedin.svg)](https://www.linkedin.com/in/nasssar/)
+[![Portfolio](assets/badges/portfolio.svg)](https://ahmednassar7.github.io/)
+[![Tracker](assets/badges/tracker.svg)](https://ahmednassar7.github.io/tracker/)
+[![Horizon](assets/badges/horizon.svg)](https://ahmednassar7.github.io/horizon/)
+[![PDFTools](assets/badges/pdftools.svg)](https://ahmednassar7.github.io/toolkit/)
+[![Manarah](assets/badges/manarah.svg)](https://ahmednassar7.github.io/manarah/)
 
 </div>
 
@@ -366,7 +337,7 @@
 </table>
 </div>
 
-<p align="center"> <a href="https://github.com/AhmedNassar7?tab=repositories"><img src="https://github-profile-trophy-ahmed.vercel.app/?username=AhmedNassar7&theme=onedark&no-bg=true&no-frame=true&column=-1" alt="AhmedNassar7" /></a> </p>
+<p align="center"> <a href="https://github.com/AhmedNassar7?tab=repositories"><img src="assets/trophies-all.svg" alt="AhmedNassar7" /></a> </p>
 
 <h2><a id="snapshot"></a>Snapshot</h2>
 <div align="center">

@@ -1,0 +1,100 @@
+name: Trophies
+
+# Renders the GitHub trophies as static SVGs by running ryo-ma/github-profile-trophy
+# on the runner itself, so the README no longer depends on a third-party host.
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"   # Every 6 hours
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/trophies.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: trophies
+  cancel-in-progress: false
+
+jobs:
+  trophies:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repo
+        uses: actions/checkout@v4
+
+      - name: Checkout trophy generator (pinned)
+        uses: actions/checkout@v4
+        with:
+          repository: ryo-ma/github-profile-trophy
+          ref: 43736b50a82fca73c8df1c81abb40aa03519975c
+          path: .trophy-src
+
+      - name: Setup Deno
+        uses: denoland/setup-deno@v2
+        with:
+          deno-version: v1.x   # matches the generator's own action.yml
+
+      - name: Render trophies
+        working-directory: .trophy-src
+        env:
+          # Least privilege: the default short-lived token is enough for public profile data,
+          # so the personal METRICS_TOKEN is never exposed to third-party code.
+          GITHUB_TOKEN1: ${{ github.token }}
+          PORT: "8080"
+        run: |
+          set -euo pipefail
+          mkdir -p "$GITHUB_WORKSPACE/.trophy-out"
+
+          deno run --allow-env --allow-read=. --allow-write=. \
+            --allow-net=api.github.com,0.0.0.0,127.0.0.1,localhost \
+            main.ts > server.log 2>&1 &
+          SERVER_PID=$!
+          trap 'kill $SERVER_PID 2>/dev/null || true' EXIT
+
+          # Wait for the server to come up (up to ~60s)
+          up=0
+          for i in $(seq 1 30); do
+            if curl -s -o /dev/null "http://127.0.0.1:8080/"; then up=1; break; fi
+            sleep 2
+          done
+          if [ "$up" != 1 ]; then echo "::error::Trophy server did not start"; cat server.log; exit 1; fi
+
+          render () {
+            name="$1"; query="$2"; out="$GITHUB_WORKSPACE/.trophy-out/$name.svg"
+            for i in 1 2 3; do
+              if curl -fsS --max-time 60 "http://127.0.0.1:8080/?${query}" -o "$out.tmp" \
+                 && grep -q '<svg' "$out.tmp" \
+                 && [ "$(wc -c < "$out.tmp")" -gt 1500 ]; then
+                mv "$out.tmp" "$out"
+                echo "Rendered $name (attempt $i)"
+                return 0
+              fi
+              echo "Attempt $i for $name failed"; sleep $((i * 10))
+            done
+            echo "::error::Could not render $name"
+            return 1
+          }
+
+          # Same parameters as the two blocks that were in the README.
+          render trophies-top 'username=AhmedNassar7&theme=darkhub&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1&column=7'
+          render trophies-all 'username=AhmedNassar7&theme=onedark&no-bg=true&no-frame=true&column=-1'
+
+      - name: Publish SVGs
+        run: |
+          set -euo pipefail
+          mkdir -p assets
+          cp .trophy-out/trophies-top.svg assets/trophies-top.svg
+          cp .trophy-out/trophies-all.svg assets/trophies-all.svg
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/trophies-top.svg assets/trophies-all.svg
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Update assets/trophies - [Skip GitHub Action]"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push
+          fi
