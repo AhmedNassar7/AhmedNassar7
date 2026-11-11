@@ -1,0 +1,99 @@
+name: Activity Graph
+
+# Renders the contributions activity graph as a static SVG by running
+# Ashutosh00710/github-readme-activity-graph on the runner itself, so the README
+# no longer depends on a third-party host.
+
+on:
+  schedule:
+    - cron: "43 */12 * * *"   # Every 12 hours
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/activity-graph.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: activity-graph
+  cancel-in-progress: false
+
+jobs:
+  activity-graph:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repo
+        uses: actions/checkout@v4
+
+      - name: Checkout graph generator (pinned)
+        uses: actions/checkout@v4
+        with:
+          repository: Ashutosh00710/github-readme-activity-graph
+          ref: 0962e9461de815933d462e8b98c7ce566cada8fb
+          path: .graph-src
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Build generator
+        working-directory: .graph-src
+        run: |
+          npm ci --ignore-scripts --no-audit --no-fund
+          npm run build
+
+      - name: Render graph
+        working-directory: .graph-src
+        env:
+          # Least privilege: the default short-lived token is enough for public contribution data.
+          TOKEN: ${{ github.token }}
+          PORT: "5100"
+        run: |
+          set -euo pipefail
+          mkdir -p "$GITHUB_WORKSPACE/.graph-out"
+
+          node dist/main.js > server.log 2>&1 &
+          SERVER_PID=$!
+          trap 'kill $SERVER_PID 2>/dev/null || true' EXIT
+
+          up=0
+          for i in $(seq 1 30); do
+            if curl -s -o /dev/null "http://127.0.0.1:5100/"; then up=1; break; fi
+            sleep 2
+          done
+          if [ "$up" != 1 ]; then echo "::error::Graph server did not start"; cat server.log; exit 1; fi
+
+          # Same parameters as the badge that was in the README.
+          QUERY='username=ahmednassar7&theme=github-compact&area=true&hide_border=true'
+          out="$GITHUB_WORKSPACE/.graph-out/activity-graph.svg"
+          for i in 1 2 3; do
+            if curl -fsS --max-time 60 "http://127.0.0.1:5100/graph?${QUERY}" -o "$out.tmp" \
+               && grep -q '<svg' "$out.tmp" \
+               && [ "$(wc -c < "$out.tmp")" -gt 1500 ]; then
+              mv "$out.tmp" "$out"
+              echo "Rendered graph (attempt $i)"
+              exit 0
+            fi
+            echo "Attempt $i failed"; sleep $((i * 10))
+          done
+          echo "::error::Could not render the activity graph"
+          cat server.log
+          exit 1
+
+      - name: Publish SVG
+        run: |
+          set -euo pipefail
+          mkdir -p assets
+          cp .graph-out/activity-graph.svg assets/activity-graph.svg
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/activity-graph.svg
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Update assets/activity-graph.svg - [Skip GitHub Action]"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push
+          fi

@@ -43,7 +43,7 @@
 
 </div>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.benkou.dev/?username=AhmedNassar7&theme=darkhub&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1&column=7" alt="ahmednassar7" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="assets/trophies-top.svg" alt="ahmednassar7" /></a> </p>
 
 <div align="center">
 
@@ -69,8 +69,6 @@
 [![Manarah](assets/badges/manarah.svg)](https://ahmednassar7.github.io/manarah/)
 
 </div>
-
-&nbsp;
 
 <p align="center">
   <a href="https://github.com/sponsors/AhmedNassar7" target="_blank" style="text-decoration:none;">
@@ -375,7 +373,7 @@
 
 <h2><a id="graph"></a>📈 Contributions Graph</h2>  
 
-[![Ahmed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmednassar7&theme=github-compact&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ahmed's github activity graph](assets/activity-graph.svg)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!-- <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" /> -->
